@@ -1,0 +1,135 @@
+PHOTO SHOT LIST - Small Carpathian Wine Route Audio Guide
+==========================================================
+
+Save each photo into the  images/  folder using the EXACT file name.
+Landscape 16:9, about 1200 x 675 px, under 300 KB each.
+Every photo is optional - missing ones show a burgundy placeholder.
+
+Tick them off as you go.
+
+
+----------------------------------------------------------
+STOP: WELCOME & INTRODUCTION
+----------------------------------------------------------
+  [ ]  images/welcome.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/welcome-on-board.jpg
+          Welcome on Board
+  [ ]  images/history-1-origins.jpg
+          History: From the Celts to Great Moravia
+  [ ]  images/history-2-hungary.jpg
+          History: The Kingdom of Hungary & the Golden Age
+  [ ]  images/history-3-maria-theresa.jpg
+          History: Maria Theresa & the Wine Legend
+  [ ]  images/history-4-czechoslovakia.jpg
+          History: Magyarisation & Czechoslovakia
+  [ ]  images/history-5-war-communism.jpg
+          History: War, Communism & Independence
+  [ ]  images/history-6-today.jpg
+          Slovakia Today
+  [ ]  images/wine-route.jpg
+          The Small Carpathian Wine Route
+
+----------------------------------------------------------
+STOP: RED STONE CASTLE — ARRIVAL
+----------------------------------------------------------
+  [ ]  images/castle-arrival.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/arrival-red-stone.jpg
+          Arrival at Red Stone Castle
+
+----------------------------------------------------------
+STOP: RED STONE CASTLE — MUSEUM
+----------------------------------------------------------
+  [ ]  images/castle-museum.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/castle-history.jpg
+          Červený Kameň Castle — Introduction
+  [ ]  images/sala-terrena.jpg
+          Garden Hall (Sala Terrena)
+  [ ]  images/lower-hall-coach.jpg
+          Lower Hall — Before the Coach
+  [ ]  images/pharmacy.jpg
+          Pharmacy
+  [ ]  images/upper-hall.jpg
+          Upper Hall
+  [ ]  images/renaissance-hall.jpg
+          Renaissance Hall
+  [ ]  images/renaissance-dining.jpg
+          Renaissance Dining Room
+  [ ]  images/empire-bedroom.jpg
+          Empire Bedroom
+  [ ]  images/behind-bars.jpg
+          Behind the Bars
+  [ ]  images/weapons-1.jpg
+          Weapons Cabinet — Room 1
+  [ ]  images/weapons-2.jpg
+          Weapons Cabinet — Room 2
+  [ ]  images/corner-room.jpg
+          Corner Room
+  [ ]  images/baroque-bedroom.jpg
+          Baroque (Lord's) Bedroom
+  [ ]  images/pink-saloon.jpg
+          Pink Saloon
+  [ ]  images/knights-hall.jpg
+          Knight's Hall
+  [ ]  images/library.jpg
+          Library
+  [ ]  images/chapel.jpg
+          Chapel
+  [ ]  images/great-dining-hall.jpg
+          Great Dining Hall
+  [ ]  images/empire-saloon.jpg
+          Empire Saloon
+  [ ]  images/oriental-saloon.jpg
+          Oriental Saloon
+  [ ]  images/rococo-saloon.jpg
+          Rococo Saloon
+  [ ]  images/golden-saloon.jpg
+          Golden Saloon
+  [ ]  images/gentlemans-study.jpg
+          Gentleman's Study
+  [ ]  images/antechamber.jpg
+          Final Room — Antechamber
+  [ ]  images/after-castle.jpg
+          After Your Visit
+
+----------------------------------------------------------
+STOP: MODRA
+----------------------------------------------------------
+  [ ]  images/modra.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/modra-main.jpg
+          Welcome to Modra
+
+----------------------------------------------------------
+STOP: PEZINOK
+----------------------------------------------------------
+  [ ]  images/pezinok.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/pezinok-welcome.jpg
+          Welcome to Pezinok
+  [ ]  images/pezinok-history.jpg
+          A History of Pezinok
+  [ ]  images/pezinok-centre.jpg
+          Exploring the Historic Centre
+
+----------------------------------------------------------
+STOP: SVÄTÝ JUR
+----------------------------------------------------------
+  [ ]  images/svaty-jur.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/svaty-jur-main.jpg
+          Last Stop — Svätý Jur
+
+----------------------------------------------------------
+STOP: THANK YOU & FAREWELL
+----------------------------------------------------------
+  [ ]  images/thank-you.jpg          <-- MAIN STOP PHOTO (priority)
+
+  [ ]  images/final-words.jpg
+          Final Words & Thank You
+
+==========================================================
+TOTAL: 7 stop photos + 40 track photos = 47 files
+==========================================================

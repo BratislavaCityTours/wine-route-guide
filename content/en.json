@@ -1,0 +1,537 @@
+{
+  "lang": "en",
+  "langName": "English",
+  "appTitle": "Small Carpathian Wine Route",
+  "appSubtitle": "Audio Guide · Bratislava City Tours",
+  "ui": {
+    "chooseLanguage": "Choose your language",
+    "stops": "Tour stops",
+    "tracks": "tracks",
+    "track": "track",
+    "readText": "Read text",
+    "hideText": "Hide text",
+    "audioComingSoon": "Audio coming soon — you can read the text below.",
+    "downloadOffline": "Download audio for offline use",
+    "downloading": "Downloading…",
+    "offlineReady": "✓ Available offline",
+    "nowPlaying": "Now playing",
+    "changeLanguage": "Change language",
+    "back": "Back",
+    "castleHint": "Tap each room as you enter it during your castle visit.",
+    "installHint": "Tip: add this guide to your home screen for the best experience.",
+    "min": "min",
+    "mins": "mins"
+  },
+  "stops": [
+    {
+      "id": "welcome",
+      "title": "Welcome & Introduction",
+      "subtitle": "Listen after departure from Bratislava",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "welcome-on-board",
+          "title": "Welcome on Board",
+          "text": [
+            "Welcome on board our Small Carpathian Wine Route Tour with Audio Guide.",
+            "This tour is brought to you by Bratislava City Tours, a family-owned sightseeing company established in 1993 and part of E-TRAVEL.SK, an incoming tour operator specializing in travel experiences across Slovakia.",
+            "Today's tour will take approximately 6.5 hours, and you will return to your hotel at around 6:30 PM.",
+            "Today's itinerary:",
+            "Departure from Bratislava through the famous wine district of Rača.",
+            "Our first stop will be the majestic Red Stone Castle. Your ticket includes admission to the castle.",
+            "The guided castle tour lasts approximately one hour. The official guided tour is conducted in Slovak, but your audio guide will provide all the necessary information in your preferred language.",
+            "Please use your audio guide with headphones inside the castle and respect the other visitors.",
+            "From October to May, the castle tour starts at 1:30 PM. In June to September, including May weekends, the tour starts at 1:00 PM.",
+            "After visiting Red Stone Castle, we will return to the vehicle and continue to the charming wine town of Modra, where we will make a short stop.",
+            "Next, we will continue to Pezinok, the Slovak capital of wine production, where you will have time for a stroll through the historic town centre.",
+            "Our final stop will be Svätý Jur, a picturesque wine town near Bratislava, where you will enjoy a wine tasting featuring three samples of locally produced wines from small family wineries.",
+            "After the wine tasting, we will return to Bratislava, where you will be dropped off at your hotel, marking the end of our services."
+          ],
+          "duration": "1:42 mins"
+        },
+        {
+          "id": "history-1-origins",
+          "title": "History: From the Celts to Great Moravia",
+          "text": [
+            "Although Slovakia is one of the youngest member states of the European Union, it has a rich and fascinating history.",
+            "The area around Bratislava and the Small Carpathian Wine Route has been inhabited since prehistoric times. The presence of the Celts is well documented here. Archaeological excavations on Bratislava Castle Hill uncovered the remains of a Celtic oppidum, along with Celtic coins.",
+            "During Roman times, this region formed part of the frontier of the mighty Roman Empire. The present-day Bratislava district of Rusovce was home to the Roman military settlement of Gerulata, which formed part of the Roman frontier system known as the Limes Romanus. The Romans were also among the first to cultivate vineyards in this region.",
+            "The first Slavic tribes arrived during the 5th and 6th centuries. They later established the first significant Slavic state known as Great Moravia.",
+            "In the 9th century, Saints Cyril and Methodius arrived from the Byzantine Empire. They brought Christianity, education, and literacy to the Slavic people. They created the first Slavic alphabet, known as the Glagolitic alphabet, which later influenced the development of the Cyrillic alphabet used today in countries such as Russia, Bulgaria, and Serbia. They also translated the Holy Bible and other religious texts into the Old Church Slavonic language and wrote the famous Slavic poem Proglas, considered the first literary work in the Slavic language."
+          ],
+          "duration": "1:30 mins"
+        },
+        {
+          "id": "history-2-hungary",
+          "title": "History: The Kingdom of Hungary & the Golden Age",
+          "text": [
+            "In the 10th century, the Magyar tribes arrived in the region of present-day Slovakia and the Pannonian Basin. They defeated Great Moravia and established the Kingdom of Hungary. For more than one thousand years, Slovakia remained part of the Kingdom of Hungary and later the Austro-Hungarian Monarchy.",
+            "The Hungarian throne was ruled by several important dynasties, including the Árpád dynasty, the Anjou dynasty from Naples — represented by Charles Robert of Anjou and Louis the Great — followed by the Polish Jagiellonian dynasty.",
+            "A turning point came with the Battle of Mohács in 1526. Although this battle marked a catastrophe for the Kingdom of Hungary, it became the beginning of a golden age for Bratislava. The Hungarian army was decisively defeated by the powerful Ottoman Empire. As a result, much of Hungary came under Ottoman rule for more than 150 years.",
+            "Because central Hungary was occupied by the Ottomans, Bratislava — known at the time as Pressburg in German, Pozsony in Hungarian, and Prešporok in Slovak — became the new capital of the Kingdom of Hungary. This period marked the city's golden age.",
+            "Bratislava also became closely associated with the Habsburg dynasty. Between 1563 and 1830, 11 kings and 8 queens and royal consorts were crowned in St. Martin's Cathedral."
+          ],
+          "duration": "1:22 mins"
+        },
+        {
+          "id": "history-3-maria-theresa",
+          "title": "History: Maria Theresa & the Wine Legend",
+          "text": [
+            "The most famous ruler connected with Bratislava was Maria Theresa, who greatly influenced the city's development. During her reign, Bratislava flourished as an important political, cultural, and economic centre of the Habsburg Empire.",
+            "Maria Theresa visited Bratislava many times because her favourite daughter, Maria Christina, lived at Bratislava Castle. Maria Christina was the youngest daughter and was born on the same day as her mother, 13 May. Unlike her siblings, she was the only child who was allowed to marry for love rather than for political reasons. She married Prince Albert of Saxony, Duke of Teschen, who later served as the Governor of the Kingdom of Hungary and resided in Bratislava.",
+            "Prince Albert was one of Europe's greatest art collectors. His collection became the foundation of Vienna's famous Albertina Museum, now one of the world's most respected art museums. The museum bears his name because he was its founder.",
+            "There is a charming local legend connected with Maria Theresa and the Small Carpathian Wine Region. According to the legend, Maria Theresa loved a local red wine called Frankovka modrá, or Blaufränkisch. It is said that every time she drank Frankovka, she became pregnant. Since Maria Theresa gave birth to 16 children, the locals jokingly say she must have enjoyed quite a lot of wine! Of course, this is only a legend, but it remains one of the region's favourite stories."
+          ],
+          "duration": "1:26 mins"
+        },
+        {
+          "id": "history-4-czechoslovakia",
+          "title": "History: Magyarisation & Czechoslovakia",
+          "text": [
+            "For centuries, Slovaks, Hungarians and many other nationalities lived together within the Kingdom of Hungary. During the 19th century, however, the Hungarian government introduced a policy known as Magyarisation. The aim was to strengthen the Hungarian language and national identity throughout the kingdom.",
+            "At that time, ethnic Hungarians represented only about half of the population. The kingdom was also home to Romanians, Slovaks, Germans, Croats, Serbs, Ruthenians and several other ethnic groups. The government gradually restricted the use of minority languages. Slovak schools and cultural institutions were closed, and Hungarian became the dominant language in administration and education.",
+            "Ironically, during this period, the largest city inhabited by Slovaks was not Bratislava but Budapest, where many Slovaks had moved for work.",
+            "After the First World War, Slovaks decided to unite with the Czechs and establish the new state of Czechoslovakia. Slovak emigrants in the United States played an important role in this process. During the 19th century, hundreds of thousands of Slovaks emigrated to America, especially to Pennsylvania, where many worked in coal mines and steel factories.",
+            "Among famous Americans with Slovak ancestry are Andy Warhol — born Andrej Varhola — Paul Newman, Angelina Jolie, and Jessica Biel.",
+            "The future of Czechoslovakia was discussed in the Cleveland Agreement of 1915 and the Pittsburgh Agreement of 1918. Even today, the University of Pittsburgh remains one of the few universities in North America where Slovak language and Slovak studies are taught.",
+            "The First Czechoslovak Republic consisted of the Czech Lands, Slovakia and Subcarpathian Ruthenia, a region that today belongs to western Ukraine.",
+            "Before the establishment of Czechoslovakia, Czech political leaders promised Slovakia a significant degree of autonomy. However, after 1918 the new republic became a highly centralised state governed mainly from Prague. The government promoted the idea of a single Czechoslovak nation, claiming that Czechs and Slovaks were one people speaking one language with two forms: Czech and Slovak. Many Slovaks disagreed with this concept and demanded greater autonomy. These political tensions weakened the country during the late 1930s."
+          ],
+          "duration": "2:23 mins"
+        },
+        {
+          "id": "history-5-war-communism",
+          "title": "History: War, Communism & Independence",
+          "text": [
+            "Following the Munich Agreement in 1938 and increasing pressure from Adolf Hitler, Czechoslovakia began to collapse. In March 1939, Hitler presented Slovak leader Jozef Tiso with an ultimatum: either Slovakia would declare independence under German protection, or its territory would be divided between Hungary and Poland. The Slovak parliament chose independence, and the Slovak Republic was proclaimed on 14 March 1939.",
+            "Although Slovakia became independent for the first time in its modern history, it remained a satellite state of Nazi Germany. This period remains one of the most controversial chapters of Slovak history.",
+            "Jozef Tiso was not only a politician but also a Catholic priest. Some Slovaks regard him as the man who preserved Slovak statehood during a difficult period. Others consider him responsible for cooperating with Nazi Germany and for the persecution and deportation of Slovak Jews. It is true that Tiso granted exemptions that saved thousands of Jews from deportation. However, under his government, tens of thousands of Slovak Jews were deported to Nazi concentration and extermination camps. After the publication of the famous Vrba–Wetzler Report in 1944, which revealed what was happening in Auschwitz, further deportations from Slovakia were largely halted. Even today, historians continue to debate this difficult period of Slovak history.",
+            "After the Second World War, Czechoslovakia held free parliamentary elections in 1946. In Slovakia, the Democratic Party won the election, but overall the Communist Party became the strongest political force in Czechoslovakia. In February 1948, the Communists seized power in a coup d'état, and Czechoslovakia remained under communist rule for more than forty years.",
+            "The communist regime dramatically changed the country's economy and society. Before the communist takeover, Czechoslovakia ranked among Europe's most industrialised countries. By the end of the communist era in 1989, Austria had become significantly wealthier.",
+            "In 1989, the peaceful Velvet Revolution brought an end to communist rule. Despite enormous progress since then, Slovakia still faces some challenges inherited from the communist period, including corruption, weak public trust in political institutions and the decline of traditional agriculture.",
+            "On 1 January 1993, Czechoslovakia peacefully split into two independent states: the Czech Republic and Slovakia. The division was negotiated by political leaders and was not decided by a nationwide referendum. Today, the Czech Republic remains economically stronger, although Slovakia has made remarkable progress since independence.",
+            "Slovakia joined the European Union in 2004 and adopted the euro as its currency in 2009."
+          ],
+          "duration": "3:00 mins"
+        },
+        {
+          "id": "history-6-today",
+          "title": "Slovakia Today",
+          "text": [
+            "Slovakia remains one of Europe's more conservative countries, and Christianity continues to play an important role in society. The Slovak Constitution defines marriage as a union between one man and one woman. Same-sex marriage and registered partnerships are currently not recognised under Slovak law.",
+            "Around two-thirds of the population identify as Christians, with Roman Catholics forming the largest denomination. Eastern Slovakia is also home to the Greek Catholic Church, which follows the Byzantine liturgy while remaining in communion with the Pope.",
+            "Compared with many Western European countries, Slovakia has a relatively small immigrant population. Besides the Slovak majority, the largest national minority is the Hungarian community, living mainly in southern Slovakia. There are also Ukrainian, Ruthenian, Czech and Roma minorities, as well as a small Vietnamese community that has been present since the communist era.",
+            "Like many European countries, Slovakia currently faces several important challenges: reducing corruption and improving trust in public institutions; preventing the emigration of young educated people to Western Europe; addressing low birth rates and an ageing population; and improving education, employment opportunities and living conditions for socially excluded Roma communities, particularly in parts of eastern Slovakia. These remain among the country's most important social and political issues today."
+          ],
+          "duration": "1:27 mins"
+        },
+        {
+          "id": "wine-route",
+          "title": "The Small Carpathian Wine Route",
+          "text": [
+            "Not many people know that Slovakia is also a wine-growing country. Around 95% of Slovak wine production is consumed domestically, and only about 5% is exported.",
+            "Slovakia has six main wine-growing regions.",
+            "The Small Carpathian Wine Route, which you are exploring today, is one of the most famous wine regions in Slovakia. It stretches for approximately 60 kilometres, starting in the foothills of the Small Carpathians in the Bratislava district of Rača, which we have already passed, and continuing towards the historic city of Trnava, often called the Little Rome of Slovakia.",
+            "This is Slovakia's best-known wine region and is considered by many to produce the country's finest wines. In the northern part of the region, white wines dominate, especially varieties such as Veltlínske zelené, or Grüner Veltliner. In the southern and central parts, red wines are more common, including Frankovka modrá — Blaufränkisch — and Blue Portugal.",
+            "In recent years, rosé wines have become increasingly popular in this region. Due to climate change, the unique soil composition, and the ideal slope of the Carpathian hills, rosé wines have gained excellent quality and growing popularity. Many visitors from traditional wine countries such as France, Spain, and Italy have confirmed the exceptional quality of Slovak rosé wines.",
+            "The second most famous wine region is Tokaj, which lies in the eastern part of Slovakia and continues into Hungary. It is world-famous for its sweet dessert wines made from botrytised grapes.",
+            "The South Slovak wine region is known for its warmer climate and excellent conditions for red wine production, including high-quality Cabernet Sauvignon.",
+            "The Nitra Wine Region is located near the historic city of Nitra, one of the oldest cities in Slovakia, approximately one hour from Bratislava.",
+            "The Central Slovak Wine Region is located in central Slovakia and is characterised by smaller vineyards and more mountainous terrain, producing wines with distinct freshness and acidity.",
+            "The Záhorie region lies north-west of Bratislava, close to the Czech border. Its sandy soil gives the wines a unique character. The most famous wine from this region is Skalický rubín, a distinctive red wine with protected geographical origin.",
+            "Slovak viticulture is also known for its unique grape breeding programs. Slovak research centres have developed several original grape varieties, often named after Slovak rivers or historical and mythological themes.",
+            "The most famous Slovak white varieties include Devín — a cross of Tramín červený and Veltlínske červenobiele — as well as Noria, Milia, and Breslava. Among the red varieties are Dunaj, the most famous Slovak red variety, together with Hron, Váh, Rimava, and Nitria.",
+            "Among the most widespread traditional grape varieties in Slovakia are Veltlínske zelené, Rizling vlašský, and Frankovka modrá."
+          ],
+          "duration": "3:06 mins"
+        }
+      ]
+    },
+    {
+      "id": "castle-arrival",
+      "title": "Red Stone Castle — Arrival",
+      "subtitle": "Listen at the castle car park",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "arrival-red-stone",
+          "title": "Arrival at Red Stone Castle",
+          "text": [
+            "We have now arrived at the Red Stone Castle car park.",
+            "It takes approximately 5 to 7 minutes to walk from the car park to the castle courtyard, where the guided tour begins.",
+            "The meeting point is to the right of the fountain in the castle courtyard.",
+            "Please have your entrance tickets ready before the tour begins.",
+            "The guided tour starts at 1:30 PM from October to May, and at 1:00 PM from June to September, as well as on weekends in May.",
+            "We hope you enjoy your visit to one of Slovakia's most beautiful Renaissance castles."
+          ],
+          "duration": "0:30 mins"
+        }
+      ]
+    },
+    {
+      "id": "castle-museum",
+      "title": "Red Stone Castle — Museum",
+      "subtitle": "Tap each room as you enter it",
+      "mode": "rooms",
+      "tracks": [
+        {
+          "id": "castle-history",
+          "title": "Červený Kameň Castle — Introduction",
+          "text": [
+            "Červený Kameň Castle was built after 1241, as one of many stone castles constructed during a building program supported by King Béla IV and the local nobility. It became one of the frontier fortresses protecting the line that stretched from Devín Castle near Bratislava to Strečno Castle in northern Slovakia, about 200 kilometres away.",
+            "Throughout the Middle Ages, Hungarian kings granted the castle to noble families as a reward for military or financial services, and ownership changed hands several times. Among the most notable owners were Matúš Čák of Trenčín, the Wolfurt family, the Zápoľský family, and the Thurzo family. However, most of them held the castle only for a short period.",
+            "The families that played the most important role in its history were those who acquired the castle in the 16th century. During the first half of that century, it belonged to the Fuggers, one of Europe's wealthiest merchant families. They demolished the medieval Gothic castle and replaced it with a Renaissance fortress designed to serve as a storage facility for goods from their extensive trading activities.",
+            "By the end of the 16th century, however, the Fugger family's commercial influence in Hungary had declined, and they decided to sell the estate. The new owner was Miklós II Pálffy, who had married Maria Magdalena Fugger; part of the estate was transferred to him as her dowry. From 1588 onwards, Miklós and Maria became the sole owners of Červený Kameň, and they began transforming it into a magnificent family residence.",
+            "The Pálffy family remained owners of the estate until 1945, when they left for Austria before the advancing Soviet army. In 1949, the castle was declared state cultural property, and a museum was established here. Today, it presents the development of aristocratic residential culture from the 16th to the early 20th century, as well as the history of military technology at Slovak castles."
+          ],
+          "duration": "2:02 mins"
+        },
+        {
+          "id": "sala-terrena",
+          "title": "Garden Hall (Sala Terrena)",
+          "text": [
+            "The Sala Terrena — Italian for garden hall — is considered one of the greatest treasures of Červený Kameň Castle. It was built here in the 17th century by Miklós IV Pálffy, inspired by what he had seen during his Grand Tour of Italy. He invited skilled craftsmen — including stucco workers, stonemasons, painters, and other artists — to transform the castle into a magnificent Baroque residence. The frescoes in this hall, as well as in the rooms that follow, were painted by the Italian master Carpoforo Tencalla between 1654 and 1657.",
+            "Halls of this type originated in Italy, where they were created as part of palace gardens or incorporated into palaces, châteaux, and villas, usually opening directly onto the surrounding grounds. Opposite the hall stands an artificial grotto made of natural karst rock, brought here from a cave beneath Bojnice Castle. Water once flowed from the grotto and from mascarons — decorative stone faces built into the walls — creating an atmosphere of luxury and prestige.",
+            "The Pálffy family used this space for relaxation during hot summer days and evenings, and theatrical performances were also held here. Today, the Sala Terrena is mainly used for civil wedding ceremonies."
+          ],
+          "duration": "1:18 mins"
+        },
+        {
+          "id": "lower-hall-coach",
+          "title": "Lower Hall — Before the Coach",
+          "text": [
+            "Ahead of us stands a 19th-century coach, brought to Červený Kameň Castle from Smolenice. It once belonged to Móric Pálffy. The doors are decorated with the Pálffy coat of arms, and a legend tells the story of how this emblem came into being.",
+            "According to the legend, one dark night the Pálffy family was returning from a long journey when a sudden storm frightened their horses. A stag emerged from the forest and struck the rear wheel of the coach with its antlers, breaking it. The travellers were forced to spend the night in the woods. At dawn, they discovered that the bridge ahead had been washed away by the storm, leaving a steep ravine where it had once stood. The stag had saved their lives at the cost of its own, and in gratitude the Pálffy family added the animal to their coat of arms.",
+            "The historical truth is less dramatic. At the beginning of the 16th century, a Pálffy nobleman named Pavol married Klára from the Bakóc-Erdődy family and adopted elements of their coat of arms alongside his own. Over time, the two symbols were modified so that the two families could still be distinguished from each other."
+          ],
+          "duration": "1:09 mins"
+        },
+        {
+          "id": "pharmacy",
+          "title": "Pharmacy",
+          "text": [
+            "Once known as the Golden Eagle, the pharmacy dates back to the second half of the 17th century and was established during the renovations carried out by Miklós IV Pálffy. It served exclusively the castle household and was never open to the public. Here, remedies for various ailments were prepared, along with liqueurs, cosmetics, and medicinal confectionery. A recipe book dating from 1727 has survived, containing 824 formulas.",
+            "The furnishings on display date from 1752. Medicinal herbs were stored in the drawers, while powders, pills, and sweets were kept in standing jars. The pharmacy was last put back into operation in the 1830s, during a cholera epidemic that spread throughout Slovakia."
+          ],
+          "duration": "0:47 mins"
+        },
+        {
+          "id": "upper-hall",
+          "title": "Upper Hall",
+          "text": [
+            "Set in oval niches just below the ceiling are busts of members of the Habsburg dynasty, reflecting the admiration and loyalty that the Pálffy family showed towards the ruling house. On the wall hangs a tapestry depicting the mythological conversation between Phaeton and his father, the sun god Helios. Opposite it stand ornate gilded ceremonial sleighs from Hlohovec, symbols of wealth and status for those who could afford to own or commission such luxurious vehicles.",
+            "Above the staircase hang portraits of hussars from the regiment of Rudolf Pálffy, who fought in the service of Maria Theresa. Between the windows are portraits of members of the Zichy family. Look closely as you walk past them: their eyes seem to follow you, and even the tips of their shoes appear to turn in your direction — an illusion carefully created by the painters.",
+            "Beneath the portraits stand mainly Italian Renaissance chests, once used for storage before wardrobes, such as the one at the back of the room, became common."
+          ],
+          "duration": "1:01 mins"
+        },
+        {
+          "id": "renaissance-hall",
+          "title": "Renaissance Hall",
+          "text": [
+            "This room displays a collection of Renaissance furniture. Although finely carved, chairs and benches from this period were not particularly comfortable, as upholstered seating was not yet common.",
+            "The ceiling is decorated with a rich fresco cycle: at its centre is a scene from Genesis depicting Hagar in the desert, while four smaller cartouches show female figures personifying Generosity, Wealth, Abundance, and Reward. Below the figure of Abundance hangs a tapestry that once served a double purpose — as an expensive display of the owner's wealth and, at the same time, as insulation against the cold.",
+            "On the opposite wall hangs a widow's portrait of Maria Magdalena Fugger, the wife of Miklós II Pálffy. Beside it stands a so-called throne chair, equipped with storage space and a backrest designed to provide greater comfort."
+          ],
+          "duration": "0:54 mins"
+        },
+        {
+          "id": "renaissance-dining",
+          "title": "Renaissance Dining Room",
+          "text": [
+            "The Renaissance was the period when cabinets and chests of drawers first appeared in dining rooms, mainly used for storing dishware and cutlery. Every room in the castle is heated by a stove or fireplace; these particular stoves were made by the Haban craftsmen. In the past, only a small number of rooms — those actually occupied by the family — were heated.",
+            "The dining room is decorated with portraits, including one of Eva Zuzana Pálffy, who was said to have been the most beautiful woman ever to live at the castle. However, the portrait is actually a 19th-century creation rather than a true historical likeness.",
+            "The ceiling fresco depicts the story of Joseph and his brothers, including scenes of Joseph and Potiphar's wife."
+          ],
+          "duration": "0:44 mins"
+        },
+        {
+          "id": "empire-bedroom",
+          "title": "Empire Bedroom",
+          "text": [
+            "This room is furnished in the Russian Empire style rather than the French version. The style marked a further return to classical antiquity, while also drawing inspiration from ancient Egypt and other early civilisations.",
+            "This furniture arrived at the castle after 1945, and its value lies in the fact that it has been preserved as a complete matching ensemble — including both the bedroom and the adjoining salon.",
+            "Look closely at the bed between the windows: it appears almost too short for an adult, more like a child's bed. In reality, however, it is a standard single bed measuring two metres in length — the tall side panels simply create an optical illusion that makes it appear shorter.",
+            "The portraits of the ladies in this room beautifully capture the fashions of the period, with elegant gowns made of fine silk and muslin."
+          ],
+          "duration": "0:51 mins"
+        },
+        {
+          "id": "behind-bars",
+          "title": "Behind the Bars",
+          "text": [
+            "This room allows you to compare the Eastern European Empire furniture from the previous room with its French and Central European counterparts. Around the same time, the Biedermeier style was emerging — closely related to Empire in its forms, but created for a different audience: the growing bourgeoisie. Instead of luxury and display, Biedermeier focused on simplicity, practicality, and comfort.",
+            "The large striped sofa here is a good example of this style. Biedermeier flourished mainly in Central Europe and in the German-speaking regions.",
+            "Among the valuable paintings in this room are depictions of muses wearing Empire-style gowns, displayed between the windows, by the artist Barbara Krafft. They are followed by portraits of three important historical figures: Count Benedikt Daun, Emperor Leopold II, and Emperor Franz Joseph I."
+          ],
+          "duration": "0:54 mins"
+        },
+        {
+          "id": "weapons-1",
+          "title": "Weapons Cabinet — Room 1",
+          "text": [
+            "This first weapons room contains pieces from the Pálffy family's own collection, including both edged weapons and firearms. It also allows you to compare the armour worn by a European soldier with that of an Ottoman warrior.",
+            "In the central display case, hussar pistols and short rifles are displayed on one side, while hunting knives, crossbows, curved cavalry sabres, and straight broadswords are shown on the other."
+          ],
+          "duration": "0:25 mins"
+        },
+        {
+          "id": "weapons-2",
+          "title": "Weapons Cabinet — Room 2",
+          "text": [
+            "The second room contains heavier weaponry: rifles with various firing mechanisms, as well as halberds and lances with wooden shafts. Note the partial staircase here, which once led down through the bastion — we are now standing at its upper level.",
+            "The cannonballs on display were discovered during archaeological excavations at the castle in the second half of the 20th century. The portraits of the young Joseph II show him holding a weapon, a traditional symbol of power and authority."
+          ],
+          "duration": "0:30 mins"
+        },
+        {
+          "id": "corner-room",
+          "title": "Corner Room",
+          "text": [
+            "This room may have once served as an isolation or sick room, as suggested by the relief of St. Roch — the patron saint of plague victims — set into a corner niche.",
+            "Today, it is furnished as a bourgeois bedroom from the second half of the 19th century, a period dominated by Historicism — the revival and reinterpretation of earlier artistic styles. A double bed dominates the room. In the opposite corner stands a privy — a dry toilet — that once emptied directly into the castle moat, together with a bidet and chamber pot.",
+            "The frescoes on the ceiling of the outer wing feature mythological and pagan themes inspired by the works of the Roman poet Ovid. Behind the bedroom lies a small boudoir, best understood as a dressing room or private changing space."
+          ],
+          "duration": "0:47 mins"
+        },
+        {
+          "id": "baroque-bedroom",
+          "title": "Baroque (Lord's) Bedroom",
+          "text": [
+            "The centrepiece of this room is a richly carved bed that once belonged to František Wesselényi, the Hungarian Palatine — the highest-ranking official in the Kingdom of Hungary after the king himself, roughly comparable to a modern prime minister. The magnificence of the bed was intended to reflect his social status and political power.",
+            "On the ceiling, a fresco depicts an ancient scene: the death of Cleopatra."
+          ],
+          "duration": "0:26 mins"
+        },
+        {
+          "id": "pink-saloon",
+          "title": "Pink Saloon",
+          "text": [
+            "Named after its pink marble fireplace, this salon showcases marquetry — perhaps the most widespread technique used to decorate fine furniture. The floral inlay on the piece beside the fireplace is typical of early 18th-century England, during the reign of Queen Anne, which gave the style its name: the Queen Anne style.",
+            "On the other side of the room stand several popular secretary desks — multifunctional pieces of furniture used for storage that could be transformed into writing desks when the front panel was folded down."
+          ],
+          "duration": "0:33 mins"
+        },
+        {
+          "id": "knights-hall",
+          "title": "Knight's Hall",
+          "text": [
+            "The largest room in the castle, spanning the entire width of the wing, the Knights' Hall serves as a kind of ancestral gallery, preserving the memory of the family's military achievements. Above all, the Pálffy family valued their victories over the Ottomans, and the decoration of this hall reflects that pride.",
+            "Above the fireplace hangs the shield of an Ottoman warrior, displayed alongside portraits of two sultans — Mehmed III and Suleiman I. On the opposite wall is a mortuary shield commemorating Štefan Pálffy, whose lower section depicts a Hungarian soldier standing above the head of a defeated Ottoman warrior."
+          ],
+          "duration": "0:39 mins"
+        },
+        {
+          "id": "library",
+          "title": "Library",
+          "text": [
+            "The library once contained around 14,000 volumes, most of which were later transferred to specialist institutions in Bratislava. What remains here today is only a small fraction of the original collection. The books are mainly in German, Latin, and Hungarian, with occasional volumes in French, English, and Italian. The most devoted collector in the family was Rudolf Pálffy, a contemporary of Maria Theresa.",
+            "Above the shelves hangs a portrait of Vojtech Pálffy — look closely and you will notice Červený Kameň Castle painted behind the curtain. He was one of the last members of the family to live here, and both his clothing and the castle in the background were carefully chosen to evoke his noble heritage."
+          ],
+          "duration": "0:44 mins"
+        },
+        {
+          "id": "chapel",
+          "title": "Chapel",
+          "text": [
+            "The castle chapel, one of its finest artistic treasures, is a fine example of Baroque sacred art. It served the household's daily devotions."
+          ],
+          "duration": "0:09 mins"
+        },
+        {
+          "id": "great-dining-hall",
+          "title": "Great Dining Hall",
+          "text": [
+            "Furnished in the spirit of Maria Theresa's era, the Great Dining Hall reflects the Pálffy family's strong loyalty to the Habsburg dynasty through both its furniture and its portraits. Maria Theresa and her husband, Francis Stephen of Lorraine, dominate the room, alongside portraits of several members of the family — most notably Joseph II, her eventual successor. Beside the stove, heated from the adjoining Knights' Hall, he appears as an adult; on the opposite wall, he is shown as a boy.",
+            "Across the room hangs a portrait of Emperor Charles VI, remembered mainly for the Pragmatic Sanction, which secured the Habsburg succession through the female line as well. Opposite him are portraits of one of Maria Theresa's daughters, Maria Christina — known as Mimi — and her husband, Albert of Saxe-Teschen. The couple lived in Bratislava, later Brussels, and finally Vienna, where they founded the famous Albertina art gallery."
+          ],
+          "duration": "1:00 mins"
+        },
+        {
+          "id": "empire-saloon",
+          "title": "Empire Saloon",
+          "text": [
+            "The Empire furniture here forms a single matching set, brought from Russia, where the style stayed fashionable until well into the second half of the 19th century. Made of birch and upholstered in green fabric, it also offers a glimpse of the era's fashions — high collars and loose, casual hairstyles for men."
+          ],
+          "duration": "0:19 mins"
+        },
+        {
+          "id": "oriental-saloon",
+          "title": "Oriental Saloon",
+          "text": [
+            "In the 18th century, Rococo — an ornate style shaped by Oriental influences — took hold across Europe, and salons were furnished accordingly with imported pieces. As demand grew, so did prices, prompting European workshops to produce affordable reproductions of these Oriental objects, examples of which sit in the corner cabinet. The Chinese and Japanese porcelain on display dates from the 18th and 19th centuries and reflects the extensive collections built up by Rudolf Pálffy."
+          ],
+          "duration": "0:31 mins"
+        },
+        {
+          "id": "rococo-saloon",
+          "title": "Rococo Saloon",
+          "text": [
+            "Rudolf Pálffy and his wife, Eleonore Kaunitz — portrayed between the windows — commissioned this salon during the reconstruction of the castle after a fire. It houses a unique gallery known as the Blue Ladies: portraits of young aristocratic women who studied at the Notre Dame convent school in Bratislava, one of the finest educational institutions in the region at the time.",
+            "Traditionally, graduates had their portraits painted at the end of their studies, wearing the blue dresses that served as the school uniform — a tradition not unlike today's graduation photographs."
+          ],
+          "duration": "0:33 mins"
+        },
+        {
+          "id": "golden-saloon",
+          "title": "Golden Saloon",
+          "text": [
+            "The furniture here reflects the era of the French royal couple Louis XVI and Marie Antoinette. The clock on display was made in Brno, once an important centre for clockmaking."
+          ],
+          "duration": "0:10 mins"
+        },
+        {
+          "id": "gentlemans-study",
+          "title": "Gentleman's Study",
+          "text": [
+            "This room recreates a gentleman's study from the late 18th and early 19th centuries, complete with a writing desk and a games table where gentlemen once played gambling and parlour games, placing their coins or counters into small recesses carved into the tabletop. Wing chairs like these were used for reading or simply relaxing.",
+            "Above the fireplace hangs a portrait of particular interest: Miklós II Pálffy, the first member of the family to own Červený Kameň, shown beneath a stone relief depicting his most celebrated victory — the Battle of Győr in 1598. At the time, Győr, located in what is now northern Hungary, was under Ottoman control. Miklós, who had proven himself a skilled military strategist during the Fifteen Years' War, recaptured the city in an achievement celebrated throughout Christian Europe. Church bells rang in his honour across the Habsburg Monarchy.",
+            "He did not live long enough to enjoy his fame, dying in 1600, but he left behind heirs who followed his example: his son Štefan as a military commander and his son Pavol as a statesman.",
+            "One curious detail is hidden in this room: the chest of drawers to the right of the fireplace conceals a hidden toilet. Its ceramic chamber pot was later removed by the servants who once emptied it."
+          ],
+          "duration": "1:19 mins"
+        },
+        {
+          "id": "antechamber",
+          "title": "Final Room — Antechamber",
+          "text": [
+            "Here hangs a portrait of Maria Theresa dressed in black, mourning the death of her husband. However, the true highlight of this room is a bronze replica of Michelangelo's Madonna and Child, cast at the turn of the 19th and 20th centuries.",
+            "The marble original is housed in the cathedral in Bruges, and this bronze cast is one of only five such replicas in the world — the others are located in New York, Edinburgh, Florence, and Washington. This makes it an exceptional piece, not only in the museum's collection but in Slovakia as a whole."
+          ],
+          "duration": "0:33 mins"
+        },
+        {
+          "id": "after-castle",
+          "title": "After Your Visit",
+          "text": [
+            "We hope you enjoyed your visit to Red Stone Castle.",
+            "Your driver is waiting for you at the Red Stone Castle car park, the same place where you were dropped off before the tour.",
+            "Our journey now continues to the charming wine towns of Modra, Pezinok, and Svätý Jur, where you will discover the heart of Slovakia's famous Small Carpathian Wine Region.",
+            "Please return to the vehicle, and we will continue our tour."
+          ],
+          "duration": "0:24 mins"
+        }
+      ]
+    },
+    {
+      "id": "modra",
+      "title": "Modra",
+      "subtitle": "The town of Ľudovít Štúr and Majolica",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "modra-main",
+          "title": "Welcome to Modra",
+          "text": [
+            "Welcome to Modra, one of the most picturesque wine towns in Slovakia.",
+            "Modra became a Free Royal Town in 1607 and today has a population of around 9,000 inhabitants. It lies on the south-eastern slopes of the Small Carpathian Mountains, approximately 20 kilometres north-east of Bratislava. Today, it is considered part of the greater Bratislava metropolitan area.",
+            "Modra is famous for several reasons.",
+            "First of all, Modra is closely associated with Ľudovít Štúr, one of the most important figures in Slovak history. Štúr was a politician, writer, teacher and linguist who became the leader of the Slovak national movement during the 19th century. He campaigned for greater rights for Slovaks within the Kingdom of Hungary, including the right to use the Slovak language in public life, the establishment of Slovak schools from primary education to university level, and greater political autonomy.",
+            "Perhaps his greatest achievement was the codification of the modern Slovak literary language in 1843. He based the standard language on the Central Slovak dialect, which remains the foundation of modern Slovak today.",
+            "Many Slovak students jokingly blame him for the complexity of Slovak grammar, especially the famous challenge of deciding when to write the letters i and y, which even many native speakers occasionally find difficult.",
+            "In front of you stands a monument dedicated to Ľudovít Štúr and his closest followers, collectively known as the Štúrovci.",
+            "Štúr died here in Modra on 12 January 1856 after accidentally shooting himself during a hunting trip. Although historians agree that it was an accident, local legends and conspiracy theories have long suggested that he may have been assassinated because of his political activities.",
+            "The second thing that has made Modra famous is its beautiful traditional pottery, known as Modra Majolica.",
+            "For centuries, this region was home to a large German-speaking population. Most German settlers arrived during the 13th century after the Mongol invasion, when King Béla IV invited skilled craftsmen and settlers to repopulate the devastated kingdom. At the same time, he strengthened the country's defensive system by building numerous stone castles, including Red Stone Castle, which you visited earlier today.",
+            "Another important group arrived during the 16th and 17th centuries. These were the Haban people, members of the Anabaptist movement, primarily Hutterites, who fled religious persecution in Switzerland and southern Germany. The Habans became famous for their exceptional craftsmanship, especially their beautifully decorated faience pottery. Their techniques formed the foundation of Modra's ceramic tradition, which continues to this day.",
+            "If you are standing on the main square, you will find a small pottery shop where you can admire and purchase authentic Modra Majolica, one of Slovakia's best-known traditional handicrafts.",
+            "Modra is also well known for its vineyards, beautiful countryside and excellent hiking opportunities. Many people from Bratislava come here at weekends to relax, enjoy nature or taste local wines. Just outside the town you will find the popular mountain hotel Zochova Chata, while nearby lies Častá-Papiernička, a recreational area traditionally used by the Slovak Parliament for official retreats and meetings.",
+            "We hope you enjoy your visit to Modra. After your walk through the town, please return to the vehicle. Our next destination is Pezinok, the capital of Slovak wine production. The drive will take approximately 10 minutes."
+          ],
+          "duration": "3:38 mins"
+        }
+      ]
+    },
+    {
+      "id": "pezinok",
+      "title": "Pezinok",
+      "subtitle": "The capital of Slovak wine",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "pezinok-welcome",
+          "title": "Welcome to Pezinok",
+          "text": [
+            "Welcome to Pezinok, the heart of Slovakia's wine country.",
+            "Nestled at the foot of the Small Carpathian Mountains, just 18 kilometres northeast of Bratislava, Pezinok is a charming town of around 25,000 inhabitants. It combines centuries-old winemaking traditions with beautiful vineyards, excellent gastronomy, and a lively historic centre.",
+            "As you look around, you will notice the gently rolling hills covered with vineyards that have shaped this landscape for hundreds of years. Thanks to its ideal location, excellent transport connections, and proximity to both Austria and Hungary, Pezinok has grown from a historic market town into one of the most important centres of Slovak viticulture.",
+            "Pezinok is best known for two things.",
+            "First of all, Pezinok is widely regarded as the capital of Slovak wine production. For centuries, wine has been the town's most valuable product. Every autumn, the streets come alive during the traditional Vintage Festival, when local wineries open their cellars, historical processions parade through the town, and visitors can taste wines produced by generations of local winemakers. Many of Slovakia's leading wineries, wine merchants and wine experts are based here, making Pezinok an important centre of the country's wine industry.",
+            "The second landmark for which Pezinok is well known is the Philippe Pinel Psychiatric Hospital, one of the largest psychiatric hospitals in Slovakia. Locals often refer to it simply as Cajla, after the nearby neighbourhood where the hospital is located.",
+            "As in many countries, the presence of a large psychiatric hospital has inspired numerous local jokes over the years. Slovaks sometimes jokingly say that if someone behaves a little strangely, they might need a trip to Cajla. Of course, these are simply local jokes. Today, the hospital is a respected medical institution providing specialised psychiatric care for patients from across Slovakia."
+          ],
+          "duration": "1:59 mins"
+        },
+        {
+          "id": "pezinok-history",
+          "title": "A History of Pezinok",
+          "text": [
+            "Pezinok's history stretches back more than 800 years. The town was first mentioned in written records in 1208 under the name terra Bozen. What began as a small settlement gradually developed into a prosperous market town under the rule of the Counts of Svätý Jur and Pezinok. Thanks to its favourable location, it became an important centre of trade, craftsmanship and, above all, wine production.",
+            "The townspeople's hard work and growing prosperity were rewarded on 14 June 1647, when King Ferdinand III granted Pezinok the status of a Free Royal Town. This marked the beginning of the town's golden age.",
+            "During the 17th and 18th centuries, Pezinok became one of the wealthiest towns in the Kingdom of Hungary. Its prosperity was built primarily on the production and export of high-quality wines, which were enjoyed at noble courts throughout Central Europe.",
+            "The 19th century brought rapid industrial development. Pezinok became home to the first sulphuric acid factory in the Kingdom of Hungary, as well as a needle factory, a large brickworks and, for a short period, even a small gold rush. The arrival of the railway further strengthened the town's position as the commercial heart of the Small Carpathian Wine Region.",
+            "Like many European towns, Pezinok also experienced difficult times during the first half of the 20th century. The two World Wars and the Great Depression severely affected the local economy, particularly the wine industry. With few industrial jobs available, many local families chose to emigrate, especially to the United States, in search of a better future.",
+            "Today, Pezinok has successfully rediscovered its historical identity. It is once again one of Slovakia's leading wine towns, combining a rich cultural heritage with modern wineries, excellent gastronomy and a vibrant community. As you walk through its streets, you are experiencing a town where more than eight centuries of history continue to shape everyday life."
+          ],
+          "duration": "1:56 mins"
+        },
+        {
+          "id": "pezinok-centre",
+          "title": "Exploring the Historic Centre",
+          "text": [
+            "As you walk through the historic centre of Pezinok, take a moment to admire the beautifully preserved burgher houses and the traditional rectangular street layout, which has remained almost unchanged for centuries. The historic centre is still surrounded by remnants of the town's original stone fortifications, reminding visitors of Pezinok's medieval past.",
+            "Today, Pezinok is home to more than 70 protected cultural monuments.",
+            "One of the highlights is Pezinok Castle, originally dating back to the 13th century. The castle is surrounded by a beautiful English-style Castle Park, a peaceful green area perfect for a relaxing walk.",
+            "For architecture lovers, the town offers many fascinating examples of different historical periods. You can admire the impressive 14th-century Roman Catholic Church of the Assumption of the Virgin Mary, with its tall tower dominating the town skyline.",
+            "Another important landmark is the Church of the Transfiguration of the Lord, a beautiful example of late Renaissance architecture from the 17th century. Nearby stands the elegant Baroque Holy Trinity Church together with the Capuchin Monastery, both dating from the 18th century.",
+            "A recommendation from your narrator: do not miss the 17th-century Renaissance Town Hall and the famous Kaviak House, which today houses the Small Carpathian Museum, dedicated to the history of wine production and the cultural heritage of the region.",
+            "After exploring the historic centre, please slowly make your way back to the parking area, where your driver will be waiting for you. Our journey continues to our final stop of the day — Svätý Jur, another charming wine town of the Small Carpathian Wine Region."
+          ],
+          "duration": "1:44 mins"
+        }
+      ]
+    },
+    {
+      "id": "svaty-jur",
+      "title": "Svätý Jur",
+      "subtitle": "Wine tasting in a historic wine town",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "svaty-jur-main",
+          "title": "Last Stop — Svätý Jur",
+          "text": [
+            "Our final stop today will be the charming small town of Svätý Jur, located just next to Bratislava.",
+            "Svätý Jur is an ancient wine town situated in the vineyards at the foot of the Small Carpathian Mountains, only about 10 kilometres from Bratislava.",
+            "Thanks to its well-preserved historical character, the town centre of Svätý Jur has been declared a Historical Town Reservation, protecting its unique atmosphere, traditional architecture and cultural heritage.",
+            "For centuries, wine production has been the heart of life in Svätý Jur. The surrounding vineyards and family-owned wineries are an important part of the Small Carpathian Wine Route.",
+            "During your visit, you will enjoy a wine tasting in a local small winery, where you will have the opportunity to taste three samples of local wines. All wines served during the tasting come from small local producers of the Small Carpathian Wine Region, allowing you to discover authentic Slovak wines made with tradition and passion.",
+            "Enjoy your tasting and the unique atmosphere of this historic wine town."
+          ],
+          "duration": "1:04 mins"
+        }
+      ]
+    },
+    {
+      "id": "thank-you",
+      "title": "Thank You & Farewell",
+      "subtitle": "On the way back to Bratislava",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "final-words",
+          "title": "Final Words & Thank You",
+          "text": [
+            "Thank you for choosing Bratislava City Tours and joining our Small Carpathian Wine Route Audio Guide Tour.",
+            "We hope you have enjoyed discovering the beautiful vineyards, historic towns and wine traditions of the Small Carpathian Region.",
+            "We know that experiencing a destination with a live guide has its own special charm. However, we created this audio guide to offer you a more affordable way to enjoy this unique tour while still providing interesting stories, historical information and local insights throughout your journey.",
+            "Your opinion is very important to us. We would greatly appreciate your feedback on Tripadvisor or Google, as your reviews help other travellers discover our tours.",
+            "Thank you once again for travelling with us. We remain at your disposal and wish you a wonderful evening.",
+            "Your team of Bratislava City Tours."
+          ],
+          "duration": "0:50 mins"
+        }
+      ]
+    }
+  ]
+}
