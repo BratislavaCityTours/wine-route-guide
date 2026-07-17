@@ -290,7 +290,7 @@ function mediaHTML(imgPath, number, duration){
     ? `<span class="dur-pill"><span class="bars"><i></i><i></i><i></i></span>${duration}</span>` : "";
   return `<div class="media">
       <div class="ph"><span class="ph-num">${number}</span>${VINE_SVG}</div>
-      <img src="${imgPath}" alt="" loading="lazy"
+      <img src="${imgPath}" alt="" loading="eager"
            onload="this.style.opacity=1" onerror="this.remove()"
            style="position:absolute;inset:0;opacity:0;transition:opacity .3s">
       ${pill}
@@ -433,25 +433,43 @@ $("prevBtn").onclick = ()=>{ if(qIndex>0){ qIndex--; loadCurrent(true);} };
 $("nextBtn").onclick = ()=>{ if(qIndex<queue.length-1){ qIndex++; loadCurrent(true);} };
 const fmt = s => { s=Math.floor(s); return Math.floor(s/60)+":"+String(s%60).padStart(2,"0"); };
 
-/* ---------- Offline ---------- */
+/* ---------- Offline: download EVERYTHING ---------- */
+function offlineAssets(){
+  // the app itself
+  const list = ["./", "index.html", "manifest.json", `content/${lang}.json`,
+                "icons/icon-192.png", "icons/icon-512.png", "images/logo.png"];
+  // every photo (missing ones are skipped automatically)
+  content.stops.forEach(s=>{
+    list.push(s.image || `images/${s.id}.jpg`);
+    s.tracks.forEach(t=>{
+      list.push(t.image || `images/${t.id}.jpg`);
+      list.push(`audio/${lang}/${t.id}.mp3`);
+    });
+  });
+  return [...new Set(list)];
+}
+
 async function downloadOffline(){
   if(!("caches" in window)){ alert("Offline storage is not supported in this browser."); return; }
   const btn=$("dlBtn"), prog=$("dl-progress");
   btn.disabled=true;
-  const cache = await caches.open("wr-audio-"+lang);
-  const all = content.stops.flatMap(s=>s.tracks);
-  let ok=0;
+  const cache = await caches.open("wr-offline-"+lang);
+  const all = offlineAssets();
+  let ok=0, failed=0;
+
   for(let i=0;i<all.length;i++){
-    prog.textContent = `${content.ui.downloading} ${i+1} / ${all.length}`;
+    prog.textContent = `${content.ui.downloading} ${Math.round(((i+1)/all.length)*100)}%`;
     try{
-      const url = `audio/${lang}/${all[i].id}.mp3`;
-      const res = await fetch(url);
-      if(res.ok){ await cache.put(url,res); ok++; }
-    }catch(e){}
+      const res = await fetch(all[i], {cache:"reload"});
+      if(res.ok){ await cache.put(all[i], res.clone()); ok++; }
+      else failed++;               // e.g. a photo you haven't added yet
+    }catch(e){ failed++; }
   }
-  prog.textContent = content.ui.offlineReady + ` (${ok}/${all.length})`;
-  localStorage.setItem("wr_offline_"+lang,"1");
+
+  prog.textContent = content.ui.offlineReady;
+  localStorage.setItem("wr_offline_"+lang, String(ok));
   btn.disabled=false;
+  console.log(`offline: ${ok} cached, ${failed} unavailable`);
 }
 $("dlBtn").onclick = downloadOffline;
 function refreshOfflineStatus(){
