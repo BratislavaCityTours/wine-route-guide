@@ -205,8 +205,8 @@ main{max-width:620px;margin:0 auto;padding:18px 14px 150px}
     <h2 class="lang-title serif">Choose your language</h2>
     <p class="lang-sub">Elija su idioma · Choisissez votre langue · Scegli la tua lingua · Wählen Sie Ihre Sprache</p>
     <div class="lang-grid">
-      <button class="lang-btn" data-lang="en"><span class="flag">🇬🇧</span> English</button>
-      <button class="lang-btn" data-lang="es"><span class="flag">🇪🇸</span> Español</button>
+      <button class="lang-btn" data-lang="en"><span class="flag"><svg width="26" height="18" viewBox="0 0 60 40"><clipPath id="a"><rect width="60" height="40" rx="3"/></clipPath><g clip-path="url(#a)"><rect width="60" height="40" fill="#012169"/><path d="M0 0l60 40M60 0L0 40" stroke="#fff" stroke-width="8"/><path d="M0 0l60 40M60 0L0 40" stroke="#C8102E" stroke-width="4"/><path d="M30 0v40M0 20h60" stroke="#fff" stroke-width="12"/><path d="M30 0v40M0 20h60" stroke="#C8102E" stroke-width="7"/></g></svg></span> English</button>
+      <button class="lang-btn" data-lang="es"><span class="flag"><svg width="26" height="18" viewBox="0 0 60 40"><clipPath id="b"><rect width="60" height="40" rx="3"/></clipPath><g clip-path="url(#b)"><rect width="60" height="40" fill="#AA151B"/><rect y="10" width="60" height="20" fill="#F1BF00"/></g></svg></span> Español</button>
       <button class="lang-btn" data-lang="fr"><span class="flag">🇫🇷</span> Français</button>
       <button class="lang-btn" data-lang="it"><span class="flag">🇮🇹</span> Italiano</button>
       <button class="lang-btn" data-lang="de"><span class="flag">🇩🇪</span> Deutsch</button>
@@ -260,7 +260,7 @@ main{max-width:620px;margin:0 auto;padding:18px 14px 150px}
 
 /* Languages that are FINISHED and live. Add codes here as they are completed,
    e.g. ["en","es"]. With one code, the language picker is skipped. */
-const AVAILABLE = ["en"];
+const AVAILABLE = ["en","es"];
 
 let content=null, lang=null, currentStop=null, queue=[], qIndex=-1;
 const $ = id => document.getElementById(id);
