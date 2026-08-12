@@ -1,0 +1,514 @@
+{
+  "lang": "es",
+  "langName": "Español",
+  "appTitle": "Ruta del Vino de los Pequeños Cárpatos",
+  "appSubtitle": "Audioguía · Bratislava City Tours",
+  "ui": {
+    "chooseLanguage": "Elija su idioma",
+    "stops": "Paradas del recorrido",
+    "tracks": "pistas",
+    "track": "pista",
+    "readText": "Leer texto",
+    "hideText": "Ocultar texto",
+    "audioComingSoon": "Audio próximamente — puede leer el texto a continuación.",
+    "downloadOffline": "Descargar la guía completa para uso sin conexión",
+    "downloading": "Descargando…",
+    "offlineReady": "✓ Lista para usar sin conexión",
+    "nowPlaying": "Reproduciendo",
+    "changeLanguage": "Cambiar idioma",
+    "back": "Atrás",
+    "castleHint": "Toque cada sala al entrar en ella durante su visita al castillo.",
+    "installHint": "Consejo: añada esta guía a su pantalla de inicio para una mejor experiencia.",
+    "min": "min",
+    "mins": "min"
+  },
+  "stops": [
+    {
+      "id": "welcome",
+      "title": "Bienvenida e introducción",
+      "subtitle": "Escuche tras la salida de Bratislava",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "welcome-on-board",
+          "title": "Bienvenida a bordo",
+          "text": [
+            "Bienvenidos a bordo de nuestro recorrido por la Ruta del Vino de los Pequeños Cárpatos con audioguía.",
+            "Este recorrido está a cargo de Bratislava City Tours, una empresa turística familiar fundada en 1993 y parte de E-TRAVEL.SK, un operador turístico receptivo especializado en experiencias de viaje por toda Eslovaquia.",
+            "El recorrido de hoy durará aproximadamente 6,5 horas, y regresará a su hotel alrededor de las 18:30.",
+            "Itinerario de hoy:",
+            "Salida de Bratislava a través del famoso distrito vinícola de Rača.",
+            "Nuestra primera parada será el majestuoso Castillo de Piedra Roja. Su entrada incluye el acceso al castillo.",
+            "La visita guiada al castillo dura aproximadamente una hora. La visita oficial se realiza en eslovaco, pero su audioguía le proporcionará toda la información necesaria en su idioma preferido.",
+            "Por favor, utilice su audioguía con auriculares dentro del castillo y respete a los demás visitantes.",
+            "De octubre a mayo, la visita al castillo comienza a las 13:30. De junio a septiembre, incluidos los fines de semana de mayo, comienza a las 13:00.",
+            "Tras visitar el Castillo de Piedra Roja, regresaremos al vehículo y continuaremos hacia la encantadora ciudad vinícola de Modra, donde haremos una breve parada.",
+            "A continuación, seguiremos hasta Pezinok, la capital eslovaca de la producción de vino, donde tendrá tiempo para pasear por el centro histórico.",
+            "Nuestra última parada será Svätý Jur, una pintoresca ciudad vinícola cerca de Bratislava, donde disfrutará de una cata de vinos con tres muestras de vinos producidos localmente por pequeñas bodegas familiares.",
+            "Después de la cata, regresaremos a Bratislava, donde le dejaremos en su hotel, poniendo fin a nuestros servicios."
+          ]
+        },
+        {
+          "id": "history-1-origins",
+          "title": "Historia: de los celtas a la Gran Moravia",
+          "text": [
+            "Aunque Eslovaquia es uno de los Estados miembros más jóvenes de la Unión Europea, cuenta con una historia rica y fascinante.",
+            "La zona de Bratislava y de la Ruta del Vino de los Pequeños Cárpatos ha estado habitada desde tiempos prehistóricos. La presencia de los celtas está bien documentada en esta región. Las excavaciones arqueológicas realizadas en la colina del Castillo de Bratislava sacaron a la luz los restos de un importante asentamiento celta, conocido como un oppidum, así como monedas celtas.",
+            "Durante la época romana, esta región formaba parte de la frontera del poderoso Imperio romano. En el actual distrito de Rusovce, en Bratislava, se encontraba el asentamiento militar romano de Gerulata, que formaba parte del sistema fronterizo romano conocido como el Limes Romanus. Los romanos también fueron de los primeros en cultivar la vid en esta región.",
+            "Las primeras tribus eslavas llegaron durante los siglos V y VI. Con el tiempo, establecieron el primer gran Estado eslavo de Europa Central, conocido como la Gran Moravia.",
+            "En el siglo IX llegaron desde el Imperio bizantino los santos Cirilo y Metodio. Trajeron consigo el cristianismo, la educación y la escritura, y desempeñaron un papel fundamental en el desarrollo cultural de los pueblos eslavos.",
+            "Crearon el primer alfabeto eslavo, conocido como el alfabeto glagolítico, que más tarde influyó en el desarrollo del alfabeto cirílico utilizado actualmente en países como Rusia, Bulgaria y Serbia. También tradujeron la Biblia y otros textos religiosos al antiguo eslavo eclesiástico y escribieron el famoso poema eslavo Proglas, considerado una de las primeras obras literarias escritas en una lengua eslava."
+          ]
+        },
+        {
+          "id": "history-2-hungary",
+          "title": "Historia: el Reino de Hungría y la Edad de Oro",
+          "text": [
+            "En el siglo X, las tribus magiares llegaron a la región de la actual Eslovaquia y a la cuenca de los Cárpatos. Derrotaron a la Gran Moravia y establecieron el Reino de Hungría.",
+            "Durante más de mil años, el territorio de la actual Eslovaquia formó parte del Reino de Hungría y, posteriormente, de la Monarquía austrohúngara.",
+            "El trono húngaro estuvo ocupado por varias dinastías importantes, entre ellas la dinastía de los Árpád, la dinastía de Anjou de Nápoles —representada por Carlos Roberto de Anjou y Luis el Grande— y, posteriormente, la dinastía polaca de los Jagellón.",
+            "Un punto de inflexión llegó con la batalla de Mohács en 1526. Aunque esta batalla supuso una catástrofe para el Reino de Hungría, para Bratislava marcó el comienzo de una auténtica edad de oro.",
+            "El ejército húngaro fue derrotado de forma decisiva por el poderoso Imperio otomano. Como consecuencia, gran parte del Reino de Hungría quedó bajo dominio otomano durante más de 150 años.",
+            "Como el centro de Hungría estaba ocupado por los otomanos, Bratislava —conocida entonces como Pressburg en alemán, Pozsony en húngaro y Prešporok en eslovaco— se convirtió en la nueva capital del Reino de Hungría. Este período marcó la edad de oro de la ciudad.",
+            "Bratislava también quedó estrechamente vinculada a la dinastía de los Habsburgo. Entre 1563 y 1830, once reyes y ocho reinas y consortes reales fueron coronados en la Catedral de San Martín."
+          ]
+        },
+        {
+          "id": "history-3-maria-theresa",
+          "title": "Historia: María Teresa y la leyenda del vino",
+          "text": [
+            "La gobernante más famosa vinculada a Bratislava fue María Teresa, que influyó enormemente en el desarrollo de la ciudad. Durante su reinado, Bratislava floreció como un importante centro político, cultural y económico del Imperio de los Habsburgo.",
+            "María Teresa visitó Bratislava en numerosas ocasiones porque su hija predilecta, María Cristina, vivía en el Castillo de Bratislava. María Cristina era la hija menor y nació el mismo día que su madre, el 13 de mayo. A diferencia de sus hermanos, fue la única hija a la que se le permitió casarse por amor en lugar de por razones políticas. Se casó con el príncipe Alberto de Sajonia, duque de Teschen, quien más tarde ejerció como gobernador del Reino de Hungría y residió en Bratislava.",
+            "El príncipe Alberto fue uno de los mayores coleccionistas de arte de Europa. Su colección se convirtió en la base del famoso Museo Albertina de Viena, hoy uno de los museos de arte más respetados del mundo. El museo lleva su nombre porque él fue su fundador.",
+            "Existe una encantadora leyenda local vinculada a María Teresa y la región vinícola de los Pequeños Cárpatos. Según la leyenda, a María Teresa le encantaba un vino tinto local llamado Frankovka modrá, o Blaufränkisch. Se dice que cada vez que bebía Frankovka, se quedaba embarazada. Como María Teresa dio a luz a 16 hijos, los lugareños bromean diciendo que debió de disfrutar de bastante vino. Por supuesto, esto es solo una leyenda, pero sigue siendo una de las historias favoritas de la región."
+          ]
+        },
+        {
+          "id": "history-4-czechoslovakia",
+          "title": "Historia: la magiarización y Checoslovaquia",
+          "text": [
+            "Durante siglos, eslovacos, húngaros y muchas otras nacionalidades convivieron dentro del Reino de Hungría. Sin embargo, durante el siglo XIX, el gobierno húngaro introdujo una política conocida como magiarización. El objetivo era reforzar la lengua húngara y la identidad nacional en todo el reino.",
+            "En aquella época, los húngaros étnicos representaban solo aproximadamente la mitad de la población. El reino también albergaba a rumanos, eslovacos, alemanes, croatas, serbios, rutenos y otros grupos étnicos. El gobierno restringió gradualmente el uso de las lenguas minoritarias. Se cerraron escuelas e instituciones culturales eslovacas, y el húngaro se convirtió en la lengua dominante en la administración y la educación.",
+            "Irónicamente, durante este período, la ciudad con mayor población eslovaca no era Bratislava, sino Budapest, adonde muchos eslovacos se habían trasladado en busca de trabajo.",
+            "Tras la Primera Guerra Mundial, los eslovacos decidieron unirse a los checos y crear el nuevo estado de Checoslovaquia. Los emigrantes eslovacos en los Estados Unidos desempeñaron un papel importante en este proceso. Durante el siglo XIX, cientos de miles de eslovacos emigraron a América, especialmente a Pensilvania, donde muchos trabajaron en minas de carbón y fábricas siderúrgicas.",
+            "Entre los estadounidenses famosos con ascendencia eslovaca se encuentran Andy Warhol —nacido Andrej Varhola— Paul Newman, Angelina Jolie y Jessica Biel.",
+            "El futuro de Checoslovaquia se debatió en el Acuerdo de Cleveland de 1915 y el Acuerdo de Pittsburgh de 1918. Aún hoy, la Universidad de Pittsburgh sigue siendo una de las pocas universidades de Norteamérica donde se enseña la lengua y los estudios eslovacos.",
+            "La Primera República Checoslovaca estaba formada por las tierras checas, Eslovaquia y la Rutenia Subcarpática, una región que hoy pertenece al oeste de Ucrania.",
+            "Antes de la creación de Checoslovaquia, los líderes políticos checos prometieron a Eslovaquia un grado significativo de autonomía. Sin embargo, después de 1918 la nueva república se convirtió en un estado muy centralizado, gobernado principalmente desde Praga. El gobierno promovió la idea de una única nación checoslovaca, afirmando que checos y eslovacos eran un solo pueblo que hablaba una sola lengua con dos formas: el checo y el eslovaco. Muchos eslovacos discreparon de este concepto y exigieron una mayor autonomía. Estas tensiones políticas debilitaron al país a finales de la década de 1930."
+          ]
+        },
+        {
+          "id": "history-5-war-communism",
+          "title": "Historia: guerra, comunismo e independencia",
+          "text": [
+            "Tras el Acuerdo de Múnich en 1938 y la creciente presión de Adolf Hitler, Checoslovaquia comenzó a desmoronarse. En marzo de 1939, Hitler presentó al líder eslovaco Jozef Tiso un ultimátum: o bien Eslovaquia declaraba su independencia bajo protección alemana, o su territorio sería repartido entre Hungría y Polonia. El parlamento eslovaco optó por la independencia, y la República Eslovaca fue proclamada el 14 de marzo de 1939.",
+            "Aunque Eslovaquia se independizó por primera vez en su historia moderna, siguió siendo un estado satélite de la Alemania nazi. Este período sigue siendo uno de los capítulos más controvertidos de la historia eslovaca.",
+            "Jozef Tiso no solo era político, sino también sacerdote católico. Algunos eslovacos lo consideran el hombre que preservó la condición de estado de Eslovaquia durante un período difícil. Otros lo consideran responsable de colaborar con la Alemania nazi y de la persecución y deportación de los judíos eslovacos. Es cierto que Tiso concedió exenciones que salvaron a miles de judíos de la deportación. Sin embargo, bajo su gobierno, decenas de miles de judíos eslovacos fueron deportados a campos de concentración y exterminio nazis. Tras la publicación del famoso Informe Vrba–Wetzler en 1944, que reveló lo que estaba ocurriendo en Auschwitz, se detuvieron en gran medida las nuevas deportaciones desde Eslovaquia. Aún hoy, los historiadores siguen debatiendo este difícil período de la historia eslovaca.",
+            "Tras la Segunda Guerra Mundial, Checoslovaquia celebró elecciones parlamentarias libres en 1946. En Eslovaquia, el Partido Democrático ganó las elecciones, pero, en conjunto, el Partido Comunista se convirtió en la fuerza política más importante de Checoslovaquia.",
+            "En febrero de 1948, los comunistas tomaron el poder mediante un golpe de Estado, y Checoslovaquia permaneció bajo un régimen comunista durante más de cuarenta años.",
+            "El régimen comunista transformó profundamente la economía y la sociedad del país. Antes de la llegada de los comunistas al poder, Checoslovaquia se encontraba entre los países más industrializados de Europa. Sin embargo, al final de la era comunista, en 1989, Austria se había vuelto considerablemente más rica.",
+            "En 1989, la pacífica Revolución de Terciopelo puso fin al régimen comunista. A pesar del enorme progreso realizado desde entonces, Eslovaquia todavía se enfrenta a algunos problemas heredados del período comunista, como la corrupción, la falta de confianza pública en las instituciones políticas y el declive de la agricultura tradicional.",
+            "El 1 de enero de 1993, Checoslovaquia se dividió pacíficamente en dos Estados independientes: la República Checa y Eslovaquia. La división fue negociada por los líderes políticos y no se decidió mediante un referéndum nacional. Hoy, la República Checa sigue siendo económicamente más fuerte, aunque Eslovaquia ha logrado un progreso notable desde su independencia.",
+            "Eslovaquia se incorporó a la Unión Europea en 2004 y adoptó el euro como moneda en 2009."
+          ]
+        },
+        {
+          "id": "history-6-today",
+          "title": "Eslovaquia hoy",
+          "text": [
+            "Eslovaquia sigue siendo uno de los países más conservadores de Europa, y el cristianismo continúa desempeñando un papel importante en la sociedad.",
+            "La Constitución eslovaca define el matrimonio como la unión entre un hombre y una mujer. Actualmente, el matrimonio entre personas del mismo sexo y las uniones civiles registradas no están reconocidos por la legislación eslovaca.",
+            "Alrededor de dos tercios de la población se identifican como cristianos, siendo los católicos romanos la mayor confesión religiosa. En el este de Eslovaquia también está presente la Iglesia greco-católica, que sigue la liturgia bizantina y, al mismo tiempo, permanece en comunión con el Papa.",
+            "En comparación con muchos países de Europa Occidental, Eslovaquia tiene una población inmigrante relativamente pequeña. Además de la mayoría eslovaca, la mayor minoría nacional es la comunidad húngara, que vive principalmente en el sur de Eslovaquia. También existen minorías ucraniana, rutena, checa y romaní, así como una pequeña comunidad vietnamita, cuya presencia se remonta a la época comunista.",
+            "Como muchos otros países europeos, Eslovaquia se enfrenta actualmente a varios retos importantes: reducir la corrupción y mejorar la confianza en las instituciones públicas; evitar la emigración de jóvenes con estudios hacia Europa Occidental; hacer frente a la baja natalidad y al envejecimiento de la población; y mejorar la educación, las oportunidades laborales y las condiciones de vida de las comunidades romaníes socialmente excluidas, especialmente en algunas zonas del este de Eslovaquia. Estos siguen siendo algunos de los principales problemas sociales y políticos a los que se enfrenta el país en la actualidad."
+          ]
+        },
+        {
+          "id": "wine-route",
+          "title": "La Ruta del Vino de los Pequeños Cárpatos",
+          "text": [
+            "No mucha gente sabe que Eslovaquia también es un país productor de vino. Alrededor del 95 % del vino producido en Eslovaquia se consume dentro del propio país y solo aproximadamente el 5 % se exporta.",
+            "Eslovaquia cuenta con seis regiones vinícolas principales.",
+            "La Ruta del Vino de los Pequeños Cárpatos, que estamos recorriendo hoy, es una de las regiones vinícolas más famosas de Eslovaquia. Se extiende a lo largo de unos 60 kilómetros, desde las estribaciones de los Pequeños Cárpatos, en el distrito de Rača, en Bratislava, que ya hemos dejado atrás, hasta la histórica ciudad de Trnava, conocida a menudo como la pequeña Roma de Eslovaquia.",
+            "Esta es probablemente la región vinícola más conocida del país y muchos consideran que aquí se producen algunos de los mejores vinos de Eslovaquia.",
+            "En la parte norte de la región predominan los vinos blancos, especialmente variedades como el Veltlínske zelené, conocido internacionalmente como Grüner Veltliner. En las zonas central y sur son más habituales los vinos tintos, entre ellos el Frankovka modrá, conocido como Blaufränkisch, y el Portugalské modré, o Portugués Azul.",
+            "En los últimos años, los vinos rosados se han vuelto cada vez más populares en esta región. Gracias a la combinación del cambio climático, las características únicas del suelo y la orientación ideal de las laderas de los Pequeños Cárpatos, los vinos rosados han alcanzado una calidad excelente y gozan de una popularidad cada vez mayor.",
+            "Muchos visitantes procedentes de países con una larga tradición vinícola, como Francia, España e Italia, han destacado la excelente calidad de los vinos rosados eslovacos.",
+            "La segunda región vinícola más famosa es Tokaj, situada en el este de Eslovaquia y extendiéndose también por territorio húngaro. Es mundialmente conocida por sus vinos dulces de postre elaborados con uvas afectadas por la botritis.",
+            "La región vinícola del sur de Eslovaquia es conocida por su clima más cálido y por las excelentes condiciones para producir vinos tintos, entre ellos Cabernet Sauvignon de gran calidad.",
+            "La región vinícola de Nitra se encuentra alrededor de la histórica ciudad de Nitra, una de las ciudades más antiguas de Eslovaquia, situada aproximadamente a una hora de Bratislava.",
+            "La región vinícola de Eslovaquia Central se encuentra en el centro del país y se caracteriza por sus viñedos más pequeños y por un terreno más montañoso. Estas condiciones producen vinos con una frescura y una acidez muy características.",
+            "La región de Záhorie se encuentra al noroeste de Bratislava, cerca de la frontera con la República Checa. Sus suelos arenosos confieren a los vinos un carácter particular. El vino más famoso de esta región es el Skalický rubín, un vino tinto distintivo con denominación de origen protegida.",
+            "La viticultura eslovaca también destaca por sus programas de desarrollo y cultivo de nuevas variedades de uva. Los centros de investigación eslovacos han desarrollado varias variedades autóctonas, muchas de ellas bautizadas con nombres de ríos eslovacos o inspiradas en temas históricos y mitológicos.",
+            "Entre las variedades blancas eslovacas más conocidas se encuentran el Devín —un cruce de Tramín červený y Veltlínske červenobiele—, así como Noria, Milia y Breslava.",
+            "Entre las variedades tintas destacan Dunaj, probablemente la variedad tinta eslovaca más famosa, junto con Hron, Váh, Rimava y Nitria.",
+            "Entre las variedades tradicionales más extendidas en Eslovaquia se encuentran Veltlínske zelené, Rizling vlašský y Frankovka modrá."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "castle-arrival",
+      "title": "Castillo de Piedra Roja — Llegada",
+      "subtitle": "Escuche en el aparcamiento del castillo",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "arrival-red-stone",
+          "title": "Llegada al Castillo de Piedra Roja",
+          "text": [
+            "Hemos llegado al aparcamiento del Castillo de Piedra Roja.",
+            "Se tarda entre 5 y 7 minutos aproximadamente en caminar desde el aparcamiento hasta el patio del castillo, donde comienza la visita guiada.",
+            "El punto de encuentro está a la derecha de la fuente, en el patio del castillo.",
+            "Por favor, tenga preparadas sus entradas antes de que comience la visita.",
+            "La visita guiada comienza a las 13:30 de octubre a mayo, y a las 13:00 de junio a septiembre, así como los fines de semana de mayo.",
+            "Esperamos que disfrute de su visita a uno de los castillos renacentistas más bellos de Eslovaquia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "castle-museum",
+      "title": "Castillo de Piedra Roja — Museo",
+      "subtitle": "Toque cada sala al entrar en ella",
+      "mode": "rooms",
+      "tracks": [
+        {
+          "id": "castle-history",
+          "title": "Castillo de Červený Kameň — Introducción",
+          "text": [
+            "El castillo de Červený Kameň se construyó después de 1241, como uno de los muchos castillos de piedra levantados durante un programa de construcción impulsado por el rey Bela IV y la nobleza local. Se convirtió en una de las fortalezas fronterizas que protegían la línea que se extendía desde el Castillo de Devín, cerca de Bratislava, hasta el Castillo de Strečno, en el norte de Eslovaquia, a unos 200 kilómetros de distancia.",
+            "A lo largo de la Edad Media, los reyes húngaros concedieron el castillo a familias nobles como recompensa por servicios militares o financieros, y la propiedad cambió de manos varias veces. Entre los propietarios más destacados se encontraban Mateo Csák de Trenčín, la familia Wolfurt, la familia Zápolya y la familia Thurzo. Sin embargo, la mayoría de ellos poseyeron el castillo solo durante un breve período.",
+            "Las familias que desempeñaron el papel más importante en su historia fueron las que adquirieron el castillo en el siglo XVI. Durante la primera mitad de ese siglo, perteneció a los Fugger, una de las familias de comerciantes más ricas de Europa. Demolieron el castillo gótico medieval y lo sustituyeron por una fortaleza renacentista diseñada para servir de almacén de mercancías de sus extensas actividades comerciales.",
+            "Sin embargo, a finales del siglo XVI, la influencia comercial de la familia Fugger en Hungría había disminuido, y decidieron vender la propiedad. El nuevo propietario fue Miklós II Pálffy, que se había casado con Maria Magdalena Fugger; parte de la propiedad se le transfirió como dote. A partir de 1588, Miklós y Maria se convirtieron en los únicos propietarios de Červený Kameň, y comenzaron a transformarlo en una magnífica residencia familiar.",
+            "La familia Pálffy siguió siendo propietaria de la finca hasta 1945, cuando partieron hacia Austria ante el avance del ejército soviético. En 1949, el castillo fue declarado propiedad cultural del Estado, y aquí se estableció un museo. Hoy, presenta el desarrollo de la cultura residencial aristocrática desde el siglo XVI hasta principios del XX, así como la historia de la tecnología militar en los castillos eslovacos."
+          ]
+        },
+        {
+          "id": "sala-terrena",
+          "title": "Sala del Jardín (Sala Terrena)",
+          "text": [
+            "La Sala Terrena —que en italiano significa sala del jardín— está considerada uno de los mayores tesoros del castillo de Červený Kameň. Fue construida aquí en el siglo XVII por Miklós IV Pálffy, inspirado por lo que había visto durante su Grand Tour por Italia. Invitó a artesanos cualificados —incluidos estucadores, canteros, pintores y otros artistas— para transformar el castillo en una magnífica residencia barroca. Los frescos de esta sala, así como de las salas siguientes, fueron pintados por el maestro italiano Carpoforo Tencalla entre 1654 y 1657.",
+            "Las salas de este tipo se originaron en Italia, donde se creaban como parte de los jardines de los palacios o se incorporaban a palacios, castillos y villas, y solían abrirse directamente a los terrenos circundantes. Frente a la sala se encuentra una gruta artificial hecha de roca kárstica natural, traída de una cueva situada bajo el Castillo de Bojnice. En su día, el agua fluía desde la gruta y desde los mascarones —rostros de piedra decorativos integrados en los muros—, creando una atmósfera de lujo y prestigio.",
+            "La familia Pálffy utilizaba este espacio para relajarse durante los calurosos días y noches de verano, y aquí también se celebraban representaciones teatrales. Hoy, la Sala Terrena se utiliza principalmente para ceremonias civiles de matrimonio."
+          ]
+        },
+        {
+          "id": "lower-hall-coach",
+          "title": "Sala Baja — Ante el carruaje",
+          "text": [
+            "Ante nosotros se encuentra un carruaje del siglo XIX, traído al castillo de Červený Kameň desde Smolenice. Perteneció en su día a Móric Pálffy. Las puertas están decoradas con el escudo de armas de los Pálffy, y una leyenda cuenta la historia del origen de este emblema.",
+            "Según la leyenda, una noche oscura la familia Pálffy regresaba de un largo viaje cuando una repentina tormenta asustó a sus caballos. Un ciervo salió del bosque y golpeó con sus astas la rueda trasera del carruaje, rompiéndola. Los viajeros se vieron obligados a pasar la noche en el bosque. Al amanecer, descubrieron que el puente que tenían delante había sido arrastrado por la tormenta, dejando un profundo barranco donde antes se alzaba. El ciervo había salvado sus vidas a costa de la suya propia, y en agradecimiento la familia Pálffy añadió el animal a su escudo de armas.",
+            "La verdad histórica es menos dramática. A principios del siglo XVI, un noble Pálffy llamado Pavol se casó con Klára, de la familia Bakóc-Erdődy, y adoptó elementos de su escudo de armas junto con el suyo propio. Con el tiempo, los dos símbolos se modificaron para que las dos familias pudieran seguir distinguiéndose entre sí."
+          ]
+        },
+        {
+          "id": "pharmacy",
+          "title": "Farmacia",
+          "text": [
+            "Conocida en su día como el Águila Dorada, la farmacia data de la segunda mitad del siglo XVII y se estableció durante las renovaciones llevadas a cabo por Miklós IV Pálffy. Servía exclusivamente a la casa del castillo y nunca estuvo abierta al público. Aquí se preparaban remedios para diversas dolencias, junto con licores, cosméticos y confitería medicinal. Se ha conservado un libro de recetas que data de 1727 y que contiene 824 fórmulas.",
+            "El mobiliario expuesto data de 1752. Las hierbas medicinales se guardaban en los cajones, mientras que los polvos, las píldoras y los dulces se conservaban en tarros. La farmacia se puso en funcionamiento por última vez en la década de 1830, durante una epidemia de cólera que se extendió por toda Eslovaquia."
+          ]
+        },
+        {
+          "id": "upper-hall",
+          "title": "Sala Alta",
+          "text": [
+            "En nichos ovalados situados justo debajo del techo se encuentran bustos de miembros de la dinastía de los Habsburgo, que reflejan la admiración y la lealtad que la familia Pálffy mostraba hacia la casa reinante. En la pared cuelga un tapiz que representa la conversación mitológica entre Faetón y su padre, el dios sol Helios. Frente a él se encuentran unos trineos ceremoniales dorados y ornamentados de Hlohovec, símbolos de riqueza y estatus para quienes podían permitirse poseer o encargar vehículos tan lujosos.",
+            "Sobre la escalera cuelgan retratos de húsares del regimiento de Rudolf Pálffy, que lucharon al servicio de María Teresa. Entre las ventanas hay retratos de miembros de la familia Zichy. Fíjese bien al pasar junto a ellos: sus ojos parecen seguirle, e incluso las puntas de sus zapatos parecen girar en su dirección, una ilusión cuidadosamente creada por los pintores.",
+            "Bajo los retratos hay principalmente arcones renacentistas italianos, utilizados en su día para el almacenamiento antes de que se generalizaran los armarios, como el que se encuentra al fondo de la sala."
+          ]
+        },
+        {
+          "id": "renaissance-hall",
+          "title": "Sala Renacentista",
+          "text": [
+            "Esta sala expone una colección de muebles renacentistas. Aunque estaban finamente tallados, las sillas y los bancos de este período no eran especialmente cómodos, ya que los asientos tapizados aún no eran habituales.",
+            "El techo está decorado con un rico ciclo de frescos: en su centro hay una escena del Génesis que representa a Agar en el desierto, mientras que cuatro cartelas más pequeñas muestran figuras femeninas que personifican la Generosidad, la Riqueza, la Abundancia y la Recompensa. Bajo la figura de la Abundancia cuelga un tapiz que en su día cumplía una doble función: como costosa muestra de la riqueza del propietario y, al mismo tiempo, como aislamiento contra el frío.",
+            "En la pared opuesta cuelga un retrato de viuda de Maria Magdalena Fugger, esposa de Miklós II Pálffy. A su lado se encuentra un sillón llamado trono, equipado con espacio de almacenamiento y un respaldo diseñado para proporcionar mayor comodidad."
+          ]
+        },
+        {
+          "id": "renaissance-dining",
+          "title": "Comedor Renacentista",
+          "text": [
+            "El Renacimiento fue la época en que los aparadores y las cómodas aparecieron por primera vez en los comedores, utilizados principalmente para guardar la vajilla y los cubiertos. Todas las salas del castillo se calientan con una estufa o una chimenea; estas estufas en particular fueron fabricadas por los artesanos Haban. En el pasado, solo se calentaba un pequeño número de salas, las que realmente ocupaba la familia.",
+            "El comedor está decorado con retratos, incluido uno de Eva Zuzana Pálffy, de quien se decía que fue la mujer más hermosa que jamás vivió en el castillo. Sin embargo, el retrato es en realidad una creación del siglo XIX y no un verdadero retrato histórico.",
+            "El fresco del techo representa la historia de José y sus hermanos, incluidas escenas de José y la esposa de Putifar."
+          ]
+        },
+        {
+          "id": "empire-bedroom",
+          "title": "Dormitorio Imperio",
+          "text": [
+            "Esta sala está amueblada al estilo Imperio ruso, en lugar de la versión francesa. Este estilo supuso un mayor retorno a la antigüedad clásica, a la vez que se inspiraba en el antiguo Egipto y otras civilizaciones tempranas.",
+            "Este mobiliario llegó al castillo después de 1945, y su valor reside en que se ha conservado como un conjunto completo y a juego, que incluye tanto el dormitorio como el salón contiguo.",
+            "Fíjese bien en la cama situada entre las ventanas: parece casi demasiado corta para un adulto, más bien como una cama infantil. En realidad, sin embargo, es una cama individual estándar de dos metros de longitud; los altos paneles laterales simplemente crean una ilusión óptica que la hace parecer más corta.",
+            "Los retratos de las damas de esta sala captan a la perfección las modas de la época, con elegantes vestidos de fina seda y muselina."
+          ]
+        },
+        {
+          "id": "behind-bars",
+          "title": "Tras las rejas",
+          "text": [
+            "Esta sala permite comparar el mobiliario Imperio de Europa oriental de la sala anterior con sus equivalentes franceses y centroeuropeos. Por la misma época surgía el estilo Biedermeier, estrechamente relacionado con el Imperio en sus formas, pero creado para un público diferente: la creciente burguesía. En lugar del lujo y la ostentación, el Biedermeier se centraba en la sencillez, la funcionalidad y la comodidad.",
+            "El gran sofá de rayas que hay aquí es un buen ejemplo de este estilo. El Biedermeier floreció principalmente en Europa central y en las regiones de habla alemana.",
+            "Entre las valiosas pinturas de esta sala hay representaciones de musas con vestidos de estilo Imperio, expuestas entre las ventanas, obra de la artista Barbara Krafft. Les siguen retratos de tres importantes figuras históricas: el conde Benedikt Daun, el emperador Leopoldo II y el emperador Francisco José I."
+          ]
+        },
+        {
+          "id": "weapons-1",
+          "title": "Sala de Armas — Sala 1",
+          "text": [
+            "Esta primera sala de armas contiene piezas de la propia colección de la familia Pálffy, incluidas tanto armas blancas como de fuego. También permite comparar la armadura de un soldado europeo con la de un guerrero otomano.",
+            "En la vitrina central se exponen, en un lado, pistolas de húsar y carabinas, mientras que en el otro se muestran cuchillos de caza, ballestas, sables de caballería curvos y espadones rectos."
+          ]
+        },
+        {
+          "id": "weapons-2",
+          "title": "Sala de Armas — Sala 2",
+          "text": [
+            "La segunda sala contiene armamento más pesado: fusiles con diversos mecanismos de disparo, así como alabardas y lanzas con astas de madera. Fíjese en la escalera parcial que hay aquí, que en su día descendía a través del bastión; ahora nos encontramos en su nivel superior.",
+            "Las balas de cañón expuestas se descubrieron durante las excavaciones arqueológicas del castillo en la segunda mitad del siglo XX. Los retratos del joven José II lo muestran sosteniendo un arma, un símbolo tradicional de poder y autoridad."
+          ]
+        },
+        {
+          "id": "corner-room",
+          "title": "Sala de la Esquina",
+          "text": [
+            "Es posible que esta sala sirviera en su día de sala de aislamiento o enfermería, como sugiere el relieve de San Roque —patrón de las víctimas de la peste— situado en un nicho de la esquina.",
+            "Hoy está amueblada como un dormitorio burgués de la segunda mitad del siglo XIX, un período dominado por el historicismo, el renacimiento y la reinterpretación de estilos artísticos anteriores. Una cama de matrimonio domina la sala. En la esquina opuesta se encuentra una letrina —un retrete seco— que en su día vertía directamente al foso del castillo, junto con un bidé y un orinal.",
+            "Los frescos del techo del ala exterior presentan temas mitológicos y paganos inspirados en las obras del poeta romano Ovidio. Detrás del dormitorio hay un pequeño tocador, que se entiende mejor como un vestidor o un espacio privado para cambiarse."
+          ]
+        },
+        {
+          "id": "baroque-bedroom",
+          "title": "Dormitorio Barroco (del Señor)",
+          "text": [
+            "La pieza central de esta sala es una cama ricamente tallada que perteneció en su día a František Wesselényi, el palatino húngaro, el funcionario de mayor rango del Reino de Hungría después del propio rey, comparable a grandes rasgos a un primer ministro moderno. La magnificencia de la cama pretendía reflejar su estatus social y su poder político.",
+            "En el techo, un fresco representa una escena de la antigüedad: la muerte de Cleopatra."
+          ]
+        },
+        {
+          "id": "pink-saloon",
+          "title": "Salón Rosa",
+          "text": [
+            "Llamado así por su chimenea de mármol rosa, este salón exhibe marquetería, quizá la técnica más extendida para decorar muebles finos. La taracea floral de la pieza situada junto a la chimenea es típica de la Inglaterra de principios del siglo XVIII, durante el reinado de la reina Ana, que dio nombre a este estilo: el estilo Queen Anne.",
+            "En el otro lado de la sala hay varios populares escritorios secreter, muebles multifuncionales utilizados para el almacenamiento que podían transformarse en escritorios cuando se abatía el panel frontal."
+          ]
+        },
+        {
+          "id": "knights-hall",
+          "title": "Sala de los Caballeros",
+          "text": [
+            "La sala más grande del castillo, que abarca todo el ancho del ala, la Sala de los Caballeros sirve como una especie de galería de antepasados, que preserva la memoria de los logros militares de la familia. Por encima de todo, la familia Pálffy valoraba sus victorias sobre los otomanos, y la decoración de esta sala refleja ese orgullo.",
+            "Sobre la chimenea cuelga el escudo de un guerrero otomano, expuesto junto a los retratos de dos sultanes: Mehmed III y Solimán I. En la pared opuesta hay un escudo funerario que conmemora a Štefan Pálffy, cuya parte inferior representa a un soldado húngaro de pie sobre la cabeza de un guerrero otomano derrotado."
+          ]
+        },
+        {
+          "id": "library",
+          "title": "Biblioteca",
+          "text": [
+            "La biblioteca contenía en su día unos 14.000 volúmenes, la mayoría de los cuales fueron trasladados posteriormente a instituciones especializadas de Bratislava. Lo que queda aquí hoy es solo una pequeña parte de la colección original. Los libros están principalmente en alemán, latín y húngaro, con algún volumen ocasional en francés, inglés e italiano. El coleccionista más entregado de la familia fue Rudolf Pálffy, contemporáneo de María Teresa.",
+            "Sobre las estanterías cuelga un retrato de Vojtech Pálffy; fíjese bien y observará el castillo de Červený Kameň pintado detrás de la cortina. Fue uno de los últimos miembros de la familia que vivió aquí, y tanto su vestimenta como el castillo del fondo fueron cuidadosamente elegidos para evocar su noble linaje."
+          ]
+        },
+        {
+          "id": "chapel",
+          "title": "Capilla",
+          "text": [
+            "La capilla del castillo, uno de sus más bellos tesoros artísticos, es un excelente ejemplo del arte sacro barroco. Servía para las devociones diarias de la familia."
+          ]
+        },
+        {
+          "id": "great-dining-hall",
+          "title": "Gran Comedor",
+          "text": [
+            "Amueblado al estilo de la época de María Teresa, el Gran Comedor refleja la firme lealtad de la familia Pálffy hacia la dinastía de los Habsburgo, tanto a través de su mobiliario como de sus retratos. María Teresa y su esposo, Francisco Esteban de Lorena, dominan la sala, junto a los retratos de varios miembros de la familia, sobre todo José II, su eventual sucesor. Junto a la estufa, calentada desde la contigua Sala de los Caballeros, aparece como adulto; en la pared opuesta, se le muestra de niño.",
+            "Al otro lado de la sala cuelga un retrato del emperador Carlos VI, recordado principalmente por la Pragmática Sanción, que aseguró la sucesión de los Habsburgo también por línea femenina. Frente a él hay retratos de una de las hijas de María Teresa, María Cristina —conocida como Mimi— y su esposo, Alberto de Sajonia-Teschen. La pareja vivió en Bratislava, más tarde en Bruselas y finalmente en Viena, donde fundaron la famosa galería de arte Albertina."
+          ]
+        },
+        {
+          "id": "empire-saloon",
+          "title": "Salón Imperio",
+          "text": [
+            "El mobiliario Imperio que hay aquí forma un único conjunto a juego, traído de Rusia, donde este estilo se mantuvo de moda hasta bien entrada la segunda mitad del siglo XIX. Hecho de abedul y tapizado en tela verde, también ofrece una muestra de las modas de la época: cuellos altos y peinados sueltos e informales para los hombres."
+          ]
+        },
+        {
+          "id": "oriental-saloon",
+          "title": "Salón Oriental",
+          "text": [
+            "En el siglo XVIII, el Rococó —un estilo ornamentado influido por lo oriental— se impuso en toda Europa, y los salones se amueblaron en consecuencia con piezas importadas. A medida que crecía la demanda, también subían los precios, lo que llevó a los talleres europeos a producir reproducciones asequibles de estos objetos orientales, ejemplos de los cuales se encuentran en la vitrina de la esquina. La porcelana china y japonesa expuesta data de los siglos XVIII y XIX y refleja las extensas colecciones reunidas por Rudolf Pálffy."
+          ]
+        },
+        {
+          "id": "rococo-saloon",
+          "title": "Salón Rococó",
+          "text": [
+            "Rudolf Pálffy y su esposa, Eleonore Kaunitz —retratados entre las ventanas— encargaron este salón durante la reconstrucción del castillo tras un incendio. Alberga una galería única conocida como las Damas Azules: retratos de jóvenes aristócratas que estudiaron en el colegio del convento de Notre Dame en Bratislava, una de las mejores instituciones educativas de la región en aquella época.",
+            "Tradicionalmente, las graduadas se hacían pintar sus retratos al final de sus estudios, luciendo los vestidos azules que servían de uniforme escolar, una tradición no muy distinta de las fotografías de graduación de hoy en día."
+          ]
+        },
+        {
+          "id": "golden-saloon",
+          "title": "Salón Dorado",
+          "text": [
+            "El mobiliario que hay aquí refleja la época de la pareja real francesa Luis XVI y María Antonieta. El reloj expuesto se fabricó en Brno, en su día un importante centro de relojería."
+          ]
+        },
+        {
+          "id": "gentlemans-study",
+          "title": "Despacho del Caballero",
+          "text": [
+            "Esta sala recrea el despacho de un caballero de finales del siglo XVIII y principios del XIX, completado con un escritorio y una mesa de juego donde los caballeros jugaban en su día a juegos de azar y de salón, colocando sus monedas o fichas en pequeños huecos tallados en la superficie de la mesa. Las orejeras como estas se utilizaban para leer o simplemente para relajarse.",
+            "Sobre la chimenea cuelga un retrato de particular interés: Miklós II Pálffy, el primer miembro de la familia en poseer Červený Kameň, mostrado bajo un relieve de piedra que representa su victoria más célebre: la Batalla de Győr en 1598. En aquel momento, Győr, situada en lo que hoy es el norte de Hungría, estaba bajo control otomano. Miklós, que había demostrado ser un hábil estratega militar durante la Guerra de los Quince Años, reconquistó la ciudad en una hazaña celebrada en toda la Europa cristiana. Las campanas de las iglesias repicaron en su honor por toda la Monarquía de los Habsburgo.",
+            "No vivió lo suficiente para disfrutar de su fama, pues murió en 1600, pero dejó herederos que siguieron su ejemplo: su hijo Štefan como comandante militar y su hijo Pavol como estadista.",
+            "Un curioso detalle se esconde en esta sala: la cómoda situada a la derecha de la chimenea oculta un retrete. Su orinal de cerámica fue retirado posteriormente por los criados que en su día lo vaciaban."
+          ]
+        },
+        {
+          "id": "antechamber",
+          "title": "Sala Final — Antecámara",
+          "text": [
+            "Aquí cuelga un retrato de María Teresa vestida de negro, de luto por la muerte de su esposo. Sin embargo, el verdadero atractivo de esta sala es una réplica en bronce de la Virgen con el Niño de Miguel Ángel, fundida a caballo entre los siglos XIX y XX.",
+            "El original de mármol se conserva en la catedral de Brujas, y esta fundición en bronce es una de las únicas cinco réplicas de este tipo que existen en el mundo; las otras se encuentran en Nueva York, Edimburgo, Florencia y Washington. Esto la convierte en una pieza excepcional, no solo en la colección del museo, sino en toda Eslovaquia."
+          ]
+        },
+        {
+          "id": "after-castle",
+          "title": "Después de su visita",
+          "text": [
+            "Esperamos que haya disfrutado de su visita al Castillo de Piedra Roja.",
+            "Su conductor le espera en el aparcamiento del Castillo de Piedra Roja, el mismo lugar donde le dejaron antes de la visita.",
+            "Nuestro viaje continúa ahora hacia las encantadoras ciudades vinícolas de Modra, Pezinok y Svätý Jur, donde descubrirá el corazón de la famosa región vinícola de los Pequeños Cárpatos de Eslovaquia.",
+            "Por favor, regrese al vehículo y continuaremos nuestro recorrido."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modra",
+      "title": "Modra",
+      "subtitle": "La ciudad de Ľudovít Štúr y la mayólica",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "modra-main",
+          "title": "Bienvenidos a Modra",
+          "text": [
+            "Bienvenidos a Modra, una de las ciudades vinícolas más pintorescas de Eslovaquia.",
+            "Modra se convirtió en Ciudad Real Libre en 1607 y hoy tiene una población de unos 9.000 habitantes. Se encuentra en las laderas surorientales de los Pequeños Cárpatos, a unos 20 kilómetros al noreste de Bratislava. Hoy se considera parte del área metropolitana de Bratislava.",
+            "Modra es famosa por varias razones.",
+            "En primer lugar, Modra está estrechamente ligada a Ľudovít Štúr, una de las figuras más importantes de la historia eslovaca. Štúr fue político, escritor, profesor y lingüista, y se convirtió en el líder del movimiento nacional eslovaco durante el siglo XIX. Luchó por mayores derechos para los eslovacos dentro del Reino de Hungría, incluido el derecho a usar la lengua eslovaca en la vida pública, la creación de escuelas eslovacas desde la educación primaria hasta el nivel universitario, y una mayor autonomía política.",
+            "Quizá su mayor logro fue la codificación de la moderna lengua literaria eslovaca en 1843. Basó la lengua estándar en el dialecto eslovaco central, que sigue siendo la base del eslovaco moderno actual.",
+            "Muchos estudiantes eslovacos le culpan en broma de la complejidad de la gramática eslovaca, especialmente del famoso reto de decidir cuándo escribir las letras i e y, algo que incluso muchos hablantes nativos encuentran a veces difícil.",
+            "Ante usted se alza un monumento dedicado a Ľudovít Štúr y sus seguidores más cercanos, conocidos colectivamente como los Štúrovci.",
+            "Štúr murió aquí, en Modra, el 12 de enero de 1856, tras dispararse accidentalmente durante una cacería. Aunque los historiadores coinciden en que fue un accidente, las leyendas locales y las teorías conspirativas han sugerido durante mucho tiempo que pudo haber sido asesinado por sus actividades políticas.",
+            "Lo segundo que ha hecho famosa a Modra es su bella cerámica tradicional, conocida como la mayólica de Modra.",
+            "Durante siglos, esta región albergó una gran población de habla alemana. La mayoría de los colonos alemanes llegaron durante el siglo XIII, tras la invasión mongola, cuando el rey Bela IV invitó a artesanos y colonos cualificados a repoblar el devastado reino. Al mismo tiempo, reforzó el sistema defensivo del país construyendo numerosos castillos de piedra, incluido el Castillo de Piedra Roja, que ha visitado hoy.",
+            "Otro grupo importante llegó durante los siglos XVI y XVII. Se trataba de los Haban, miembros del movimiento anabaptista, principalmente huteritas, que huían de la persecución religiosa en Suiza y el sur de Alemania. Los Haban se hicieron famosos por su excepcional artesanía, especialmente su bellamente decorada cerámica de fayenza. Sus técnicas sentaron las bases de la tradición cerámica de Modra, que continúa hasta hoy.",
+            "Si se encuentra en la plaza principal, verá una pequeña tienda de cerámica donde podrá admirar y comprar auténtica mayólica de Modra, una de las artesanías tradicionales más conocidas de Eslovaquia.",
+            "Modra también es muy conocida por sus viñedos, su hermoso paisaje y sus excelentes oportunidades para el senderismo. Muchos habitantes de Bratislava vienen aquí los fines de semana para relajarse, disfrutar de la naturaleza o degustar los vinos locales. A las afueras de la ciudad encontrará el popular hotel de montaña Zochova Chata, mientras que cerca se encuentra Častá-Papiernička, una zona recreativa utilizada tradicionalmente por el Parlamento eslovaco para retiros y reuniones oficiales.",
+            "Esperamos que disfrute de su visita a Modra. Tras su paseo por la ciudad, por favor, regrese al vehículo. Nuestro próximo destino es Pezinok, la capital de la producción de vino eslovaco. El trayecto durará unos 10 minutos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pezinok",
+      "title": "Pezinok",
+      "subtitle": "La capital del vino eslovaco",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "pezinok-welcome",
+          "title": "Bienvenidos a Pezinok",
+          "text": [
+            "Bienvenidos a Pezinok, el corazón de la región vinícola de Eslovaquia.",
+            "Situada al pie de los Pequeños Cárpatos, a solo 18 kilómetros al noreste de Bratislava, Pezinok es una encantadora ciudad de unos 25.000 habitantes. Combina siglos de tradición vinícola con hermosos viñedos, una excelente gastronomía y un animado centro histórico.",
+            "Si miran a su alrededor, podrán observar las suaves colinas cubiertas de viñedos que han dado forma a este paisaje durante cientos de años. Gracias a su ubicación estratégica, sus excelentes conexiones de transporte y su proximidad tanto a Austria como a Hungría, Pezinok pasó de ser una histórica ciudad mercantil a convertirse en uno de los centros más importantes de la viticultura eslovaca.",
+            "Pezinok es conocida sobre todo por dos cosas.",
+            "En primer lugar, está considerada una de las capitales del vino eslovaco. Durante siglos, el vino ha sido uno de los productos más importantes y valiosos de la ciudad.",
+            "Cada otoño, las calles cobran vida durante el tradicional Festival de la Vendimia. Las bodegas locales abren sus puertas, desfiles históricos recorren la ciudad y los visitantes pueden degustar vinos elaborados por generaciones de viticultores locales.",
+            "Muchas de las principales bodegas, empresas vinícolas y expertos del sector tienen su sede aquí, lo que convierte a Pezinok en un importante centro de la industria del vino en Eslovaquia.",
+            "El segundo emblema por el que Pezinok es conocida es el Hospital Psiquiátrico Philippe Pinel, uno de los mayores hospitales psiquiátricos de Eslovaquia.",
+            "Los habitantes de la ciudad suelen llamarlo simplemente «Cajla», por el barrio cercano donde se encuentra el hospital.",
+            "Como ocurre en muchos países, la presencia de un gran hospital psiquiátrico ha dado lugar a numerosas bromas locales a lo largo de los años. Los eslovacos a veces bromean diciendo que, si alguien se comporta de forma un poco extraña, quizá necesite un viaje a Cajla.",
+            "Por supuesto, se trata simplemente de una broma local. Hoy en día, el hospital es una institución médica respetada que ofrece atención psiquiátrica especializada a pacientes de toda Eslovaquia."
+          ]
+        },
+        {
+          "id": "pezinok-history",
+          "title": "Historia de Pezinok",
+          "text": [
+            "La historia de Pezinok se remonta a más de 800 años.",
+            "La ciudad aparece mencionada por primera vez en documentos escritos en 1208, bajo el nombre de terra Bozen.",
+            "Lo que comenzó como un pequeño asentamiento se convirtió gradualmente en una próspera ciudad mercantil bajo el dominio de los condes de Svätý Jur y Pezinok.",
+            "Gracias a su ubicación favorable, Pezinok se convirtió en un importante centro de comercio, artesanía y, sobre todo, producción de vino.",
+            "El trabajo duro y la creciente prosperidad de sus habitantes se vieron recompensados el 14 de junio de 1647, cuando el rey Fernando III concedió a Pezinok el estatus de Ciudad Real Libre.",
+            "Este acontecimiento marcó el comienzo de la edad de oro de la ciudad.",
+            "Durante los siglos XVII y XVIII, Pezinok se convirtió en una de las ciudades más ricas del Reino de Hungría.",
+            "Su prosperidad se basaba principalmente en la producción y exportación de vinos de alta calidad, que eran apreciados en las cortes nobiliarias de toda Europa Central.",
+            "El siglo XIX trajo un rápido desarrollo industrial. Pezinok albergó la primera fábrica de ácido sulfúrico del Reino de Hungría, así como una fábrica de agujas, una gran fábrica de ladrillos y, durante un breve período, incluso una pequeña fiebre del oro. La llegada del ferrocarril reforzó aún más la posición de la ciudad como corazón comercial de la región vinícola de los Pequeños Cárpatos.",
+            "Como muchas ciudades europeas, Pezinok también vivió tiempos difíciles durante la primera mitad del siglo XX. Las dos guerras mundiales y la Gran Depresión afectaron gravemente a la economía local, en particular a la industria del vino. Con pocos empleos industriales disponibles, muchas familias locales optaron por emigrar, especialmente a los Estados Unidos, en busca de un futuro mejor.",
+            "Hoy, Pezinok ha redescubierto con éxito su identidad histórica. Es de nuevo una de las principales ciudades vinícolas de Eslovaquia, y combina un rico patrimonio cultural con bodegas modernas, una excelente gastronomía y una comunidad vibrante. Al pasear por sus calles, está experimentando una ciudad donde más de ocho siglos de historia siguen dando forma a la vida cotidiana."
+          ]
+        },
+        {
+          "id": "pezinok-centre",
+          "title": "Explorando el centro histórico",
+          "text": [
+            "Al pasear por el centro histórico de Pezinok, tómese un momento para admirar las casas burguesas bellamente conservadas y el tradicional trazado rectangular de las calles, que ha permanecido casi inalterado durante siglos. El centro histórico todavía está rodeado por restos de las fortificaciones de piedra originales de la ciudad, que recuerdan a los visitantes el pasado medieval de Pezinok.",
+            "Hoy, Pezinok alberga más de 70 monumentos culturales protegidos.",
+            "Uno de los puntos destacados es el Castillo de Pezinok, que data originalmente del siglo XIII. El castillo está rodeado por un hermoso parque de estilo inglés, una tranquila zona verde perfecta para un paseo relajante.",
+            "Para los amantes de la arquitectura, la ciudad ofrece numerosos ejemplos fascinantes de diferentes períodos históricos. Podrá admirar la imponente iglesia católica romana de la Asunción de la Virgen María, del siglo XIV, con su alta torre que domina el horizonte de la ciudad.",
+            "Otro monumento importante es la iglesia de la Transfiguración del Señor, un hermoso ejemplo de arquitectura tardorrenacentista del siglo XVII. Cerca se alza la elegante iglesia barroca de la Santísima Trinidad junto con el monasterio de los Capuchinos, ambos del siglo XVIII.",
+            "Una recomendación de su narrador: no se pierda el Ayuntamiento renacentista del siglo XVII y la famosa Casa Kaviak, que hoy alberga el Museo de los Pequeños Cárpatos, dedicado a la historia de la producción de vino y al patrimonio cultural de la región.",
+            "Tras explorar el centro histórico, por favor, diríjase lentamente de vuelta a la zona de aparcamiento, donde su conductor le estará esperando. Nuestro viaje continúa hacia nuestra última parada del día: Svätý Jur, otra encantadora ciudad vinícola de la región de los Pequeños Cárpatos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "svaty-jur",
+      "title": "Svätý Jur",
+      "subtitle": "Cata de vinos en una ciudad vinícola histórica",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "svaty-jur-main",
+          "title": "Última parada — Svätý Jur",
+          "text": [
+            "Nuestra última parada de hoy será la encantadora y pequeña ciudad de Svätý Jur, situada justo al lado de Bratislava.",
+            "Svätý Jur es una antigua ciudad vinícola situada entre los viñedos, al pie de los Pequeños Cárpatos, a solo unos 10 kilómetros de Bratislava.",
+            "Gracias a su carácter histórico bien conservado, el centro de Svätý Jur ha sido declarado Reserva Urbana Histórica, lo que protege su atmósfera única, su arquitectura tradicional y su patrimonio cultural.",
+            "Durante siglos, la producción de vino ha sido el corazón de la vida en Svätý Jur. Los viñedos circundantes y las bodegas familiares son una parte importante de la Ruta del Vino de los Pequeños Cárpatos.",
+            "Durante su visita, disfrutará de una cata de vinos en una pequeña bodega local, donde tendrá la oportunidad de degustar tres muestras de vinos locales. Todos los vinos servidos durante la cata provienen de pequeños productores locales de la región vinícola de los Pequeños Cárpatos, lo que le permitirá descubrir auténticos vinos eslovacos elaborados con tradición y pasión.",
+            "Disfrute de su cata y de la atmósfera única de esta histórica ciudad vinícola."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thank-you",
+      "title": "Agradecimiento y despedida",
+      "subtitle": "De camino de vuelta a Bratislava",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "final-words",
+          "title": "Palabras finales y agradecimiento",
+          "text": [
+            "Gracias por elegir Bratislava City Tours y por unirse a nuestro recorrido con audioguía por la Ruta del Vino de los Pequeños Cárpatos.",
+            "Esperamos que haya disfrutado descubriendo los hermosos viñedos, las ciudades históricas y las tradiciones vinícolas de la región de los Pequeños Cárpatos.",
+            "Sabemos que vivir un destino con un guía en directo tiene su propio encanto especial. Sin embargo, hemos creado esta audioguía para ofrecerle una forma más asequible de disfrutar de este recorrido único, proporcionándole a la vez historias interesantes, información histórica y perspectivas locales a lo largo de todo su viaje.",
+            "Su opinión es muy importante para nosotros. Le agradeceríamos enormemente sus comentarios en Tripadvisor o Google, ya que sus reseñas ayudan a otros viajeros a descubrir nuestros recorridos.",
+            "Gracias de nuevo por viajar con nosotros. Quedamos a su disposición y le deseamos una velada maravillosa.",
+            "Su equipo de Bratislava City Tours."
+          ]
+        }
+      ]
+    }
+  ]
+}
