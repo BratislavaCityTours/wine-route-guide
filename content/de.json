@@ -1,0 +1,619 @@
+{
+  "lang": "de",
+  "langName": "Deutsch",
+  "appTitle": "Kleinkarpaten-Weinstraße",
+  "appSubtitle": "Audioguide · Bratislava City Tours",
+  "ui": {
+    "chooseLanguage": "Wählen Sie Ihre Sprache",
+    "stops": "Stationen der Tour",
+    "tracks": "Titel",
+    "track": "Titel",
+    "readText": "Text lesen",
+    "hideText": "Text ausblenden",
+    "audioComingSoon": "Audio folgt in Kürze — Sie können den Text unten lesen.",
+    "downloadOffline": "Vollständigen Guide zur Offline-Nutzung herunterladen",
+    "downloading": "Wird heruntergeladen…",
+    "offlineReady": "✓ Offline verfügbar",
+    "nowPlaying": "Wird abgespielt",
+    "changeLanguage": "Sprache ändern",
+    "back": "Zurück",
+    "castleHint": "Tippen Sie während Ihres Schlossbesuchs auf jeden Raum, sobald Sie ihn betreten.",
+    "installHint": "Tipp: Fügen Sie diesen Guide zu Ihrem Startbildschirm hinzu, um ihn optimal zu nutzen.",
+    "min": "Min.",
+    "mins": "Min."
+  },
+  "stops": [
+    {
+      "id": "welcome",
+      "title": "Willkommen und Einführung",
+      "subtitle": "Nach der Abfahrt aus Bratislava anhören",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "welcome-on-board",
+          "title": "Willkommen an Bord",
+          "text": [
+            "Willkommen an Bord unserer Audioguide-Tour entlang der Kleinkarpaten-Weinstraße.",
+            "Diese Tour wird Ihnen von Bratislava City Tours präsentiert, einem familiengeführten Sightseeing-Unternehmen, das 1993 gegründet wurde und Teil von E-TRAVEL.SK ist, einem Incoming-Reiseveranstalter, der sich auf Reiseerlebnisse in der gesamten Slowakei spezialisiert hat.",
+            "Die heutige Tour dauert etwa 6,5 Stunden. Gegen 18:30 Uhr kehren wir zu Ihrem Hotel zurück.",
+            "Hier ist der Ablauf unserer heutigen Tour:",
+            "Wir verlassen Bratislava und fahren durch das berühmte Weinbaugebiet Rača.",
+            "Unsere erste Station ist die majestätische Burg Červený Kameň, die Rote-Stein-Burg. Ihr Ticket beinhaltet bereits den Eintritt in die Burg.",
+            "Die Führung durch die Burg dauert etwa eine Stunde. Die offizielle Führung findet auf Slowakisch statt, aber Ihr Audioguide liefert Ihnen alle wichtigen Informationen in Ihrer bevorzugten Sprache.",
+            "Bitte verwenden Sie Ihren Audioguide im Inneren der Burg mit Kopfhörern und nehmen Sie Rücksicht auf die anderen Besucher.",
+            "Von Oktober bis Mai beginnt die Burgführung um 13:30 Uhr. Von Juni bis September sowie an den Wochenenden im Mai beginnt sie um 13:00 Uhr.",
+            "Nach dem Besuch der Burg Červený Kameň kehren wir zum Fahrzeug zurück und fahren weiter in die reizvolle Weinstadt Modra, wo wir einen kurzen Halt einlegen.",
+            "Anschließend fahren wir weiter nach Pezinok, einer der wichtigsten Weinbaustädte der Slowakei. Dort haben Sie Zeit für einen Spaziergang durch die historische Altstadt.",
+            "Unsere letzte Station ist Svätý Jur, eine malerische Weinstadt in der Nähe von Bratislava. Hier erwartet Sie eine Weinverkostung mit drei Proben lokal erzeugter Weine aus kleinen Familienweingütern.",
+            "Nach der Weinverkostung fahren wir zurück nach Bratislava und bringen Sie zu Ihrem Hotel. Damit endet unsere Tour."
+          ]
+        },
+        {
+          "id": "history-1-origins",
+          "title": "Geschichte: Von den Kelten bis Großmähren",
+          "text": [
+            "Obwohl die Slowakei zu den jüngsten Mitgliedstaaten der Europäischen Union gehört, blickt sie auf eine reiche und faszinierende Geschichte zurück.",
+            "Das Gebiet rund um Bratislava und die Kleinkarpaten-Weinstraße ist bereits seit prähistorischer Zeit besiedelt. Die Anwesenheit der Kelten ist hier gut belegt. Bei archäologischen Ausgrabungen auf dem Burgberg von Bratislava wurden die Überreste eines keltischen Oppidums sowie keltische Münzen entdeckt.",
+            "Während der Römerzeit war diese Region Teil der Grenze des mächtigen Römischen Reiches. Im heutigen Stadtteil Rusovce befand sich die römische Militärsiedlung Gerulata. Sie war Teil des römischen Grenzsystems, des sogenannten Limes Romanus.",
+            "Die Römer gehörten außerdem zu den Ersten, die in dieser Region Weinreben anbauten.",
+            "Im 5. und 6. Jahrhundert kamen die ersten slawischen Stämme in diese Region. Später gründeten sie den ersten bedeutenden slawischen Staat, der als Großmähren bekannt wurde.",
+            "Im 9. Jahrhundert kamen die Heiligen Kyrill und Method aus dem Byzantinischen Reich. Sie brachten den Slawen das Christentum, Bildung und die Schrift.",
+            "Sie schufen das erste slawische Alphabet, die Glagolitische Schrift. Diese beeinflusste später die Entwicklung des kyrillischen Alphabets, das heute unter anderem in Russland, Bulgarien und Serbien verwendet wird.",
+            "Kyrill und Method übersetzten außerdem die Bibel und andere religiöse Texte ins Altkirchenslawische. Sie verfassten auch das berühmte slawische Gedicht „Proglas“, das als eines der ersten literarischen Werke in einer slawischen Sprache gilt."
+          ]
+        },
+        {
+          "id": "history-2-hungary",
+          "title": "Geschichte: Das Königreich Ungarn und das Goldene Zeitalter",
+          "text": [
+            "Im 10. Jahrhundert kamen die magyarischen Stämme in das Gebiet der heutigen Slowakei und in das Pannonische Becken. Sie besiegten Großmähren und gründeten das Königreich Ungarn.",
+            "Mehr als tausend Jahre lang blieb die Slowakei Teil des Königreichs Ungarn und später der Österreichisch-Ungarischen Monarchie.",
+            "Der ungarische Thron wurde von mehreren bedeutenden Dynastien beherrscht. Dazu gehörten die Árpáden-Dynastie, die Anjou-Dynastie aus Neapel – vertreten durch Karl Robert von Anjou und Ludwig den Großen – sowie später die polnische Jagiellonen-Dynastie.",
+            "Ein entscheidender Wendepunkt kam mit der Schlacht bei Mohács im Jahr 1526.",
+            "Für das Königreich Ungarn war diese Schlacht eine Katastrophe. Für Bratislava hingegen begann damit eine Art Goldenes Zeitalter.",
+            "Das ungarische Heer wurde vom mächtigen Osmanischen Reich entscheidend geschlagen. Infolgedessen geriet ein großer Teil Ungarns für mehr als 150 Jahre unter osmanische Herrschaft.",
+            "Da Zentralungarn von den Osmanen besetzt war, wurde Bratislava – damals auf Deutsch Pressburg, auf Ungarisch Pozsony und auf Slowakisch Prešporok genannt – zur neuen Hauptstadt des Königreichs Ungarn.",
+            "Diese Zeit gilt als das Goldene Zeitalter der Stadt.",
+            "Bratislava wurde außerdem eng mit der Habsburger-Dynastie verbunden. Zwischen 1563 und 1830 wurden im Martinsdom elf Könige sowie acht Königinnen und Königsgemahlinnen gekrönt."
+          ]
+        },
+        {
+          "id": "history-3-maria-theresa",
+          "title": "Geschichte: Maria Theresia und die Weinlegende",
+          "text": [
+            "Die berühmteste Herrscherin, die mit Bratislava verbunden ist, war Maria Theresia. Sie beeinflusste die Entwicklung der Stadt maßgeblich.",
+            "Während ihrer Regierungszeit entwickelte sich Bratislava zu einem bedeutenden politischen, kulturellen und wirtschaftlichen Zentrum des Habsburgerreiches.",
+            "Maria Theresia besuchte Bratislava viele Male, unter anderem weil ihre Lieblingstochter Maria Christina auf der Burg von Bratislava lebte.",
+            "Maria Christina war die jüngste Tochter Maria Theresias und wurde am selben Tag wie ihre Mutter geboren, am 13. Mai.",
+            "Im Gegensatz zu ihren Geschwistern war sie das einzige Kind, dem es erlaubt wurde, aus Liebe und nicht aus politischen Gründen zu heiraten.",
+            "Sie heiratete Prinz Albert von Sachsen, Herzog von Teschen. Später diente er als Statthalter des Königreichs Ungarn und lebte in Bratislava.",
+            "Prinz Albert war einer der bedeutendsten Kunstsammler Europas. Seine Sammlung bildete die Grundlage für das berühmte Wiener Museum Albertina, heute eines der angesehensten Kunstmuseen der Welt.",
+            "Das Museum trägt seinen Namen, weil er einer seiner Gründer war.",
+            "Es gibt außerdem eine reizvolle lokale Legende, die mit Maria Theresia und dem Weinbaugebiet der Kleinen Karpaten verbunden ist.",
+            "Der Legende nach liebte Maria Theresia einen lokalen Rotwein namens Frankovka modrá, auf Deutsch Blaufränkisch.",
+            "Es heißt, dass sie jedes Mal schwanger wurde, wenn sie Frankovka trank.",
+            "Da Maria Theresia 16 Kinder zur Welt brachte, sagen die Einheimischen scherzhaft, sie müsse wohl ziemlich viel Wein getrunken haben.",
+            "Natürlich ist das nur eine Legende. Trotzdem gehört sie bis heute zu den beliebtesten Geschichten der Region."
+          ]
+        },
+        {
+          "id": "history-4-czechoslovakia",
+          "title": "Geschichte: Magyarisierung und die Tschechoslowakei",
+          "text": [
+            "Jahrhundertelang lebten Slowaken, Ungarn und viele andere Nationalitäten innerhalb des Königreichs Ungarn zusammen.",
+            "Im 19. Jahrhundert führte die ungarische Regierung jedoch eine Politik ein, die als Magyarisierung bekannt wurde.",
+            "Ziel dieser Politik war es, die ungarische Sprache und nationale Identität im gesamten Königreich zu stärken.",
+            "Zu dieser Zeit machten ethnische Ungarn nur etwa die Hälfte der Bevölkerung aus.",
+            "Im Königreich lebten auch Rumänen, Slowaken, Deutsche, Kroaten, Serben, Ruthenen und mehrere andere ethnische Gruppen.",
+            "Die Regierung schränkte den Gebrauch der Minderheitensprachen zunehmend ein. Slowakische Schulen und Kultureinrichtungen wurden geschlossen, und Ungarisch wurde zur vorherrschenden Sprache in Verwaltung und Bildung.",
+            "Ironischerweise war die größte von Slowaken bewohnte Stadt zu dieser Zeit nicht Bratislava, sondern Budapest. Viele Slowaken waren auf der Suche nach Arbeit dorthin gezogen.",
+            "Nach dem Ersten Weltkrieg beschlossen die Slowaken, sich mit den Tschechen zu vereinen und einen neuen Staat zu gründen: die Tschechoslowakei.",
+            "Dabei spielten slowakische Auswanderer in den Vereinigten Staaten eine wichtige Rolle.",
+            "Im 19. Jahrhundert wanderten Hunderttausende Slowaken nach Amerika aus, insbesondere nach Pennsylvania. Viele von ihnen arbeiteten in Kohlebergwerken und Stahlfabriken.",
+            "Zu den berühmten Amerikanern mit slowakischer Abstammung gehören Andy Warhol – geboren als Andrej Varhola –, Paul Newman, Angelina Jolie und Jessica Biel.",
+            "Die Zukunft der Tschechoslowakei wurde im Cleveland-Abkommen von 1915 und im Pittsburgh-Abkommen von 1918 diskutiert.",
+            "Noch heute gehört die Universität Pittsburgh zu den wenigen Universitäten in Nordamerika, an denen slowakische Sprache und Slowakistik gelehrt werden.",
+            "Die Erste Tschechoslowakische Republik bestand aus den böhmischen Ländern, der Slowakei und der Karpatenukraine – einer Region, die heute zur Westukraine gehört.",
+            "Vor der Gründung der Tschechoslowakei hatten tschechische politische Führer den Slowaken ein erhebliches Maß an Autonomie versprochen.",
+            "Nach 1918 wurde die neue Republik jedoch zu einem stark zentralisierten Staat, der hauptsächlich von Prag aus regiert wurde.",
+            "Die Regierung förderte die Idee einer einzigen tschechoslowakischen Nation und vertrat die Ansicht, dass Tschechen und Slowaken ein Volk mit einer gemeinsamen Sprache in zwei Varianten seien: Tschechisch und Slowakisch.",
+            "Viele Slowaken lehnten dieses Konzept ab und forderten mehr Autonomie.",
+            "Diese politischen Spannungen schwächten das Land gegen Ende der 1930er-Jahre."
+          ]
+        },
+        {
+          "id": "history-5-war-communism",
+          "title": "Geschichte: Krieg, Kommunismus und Unabhängigkeit",
+          "text": [
+            "Nach dem Münchner Abkommen von 1938 und dem zunehmenden Druck Adolf Hitlers begann die Tschechoslowakei auseinanderzufallen.",
+            "Im März 1939 stellte Hitler dem slowakischen Führer Jozef Tiso ein Ultimatum: Entweder erkläre die Slowakei ihre Unabhängigkeit unter deutschem Schutz, oder ihr Gebiet werde zwischen Ungarn und Polen aufgeteilt.",
+            "Das slowakische Parlament entschied sich für die Unabhängigkeit, und die Slowakische Republik wurde am 14. März 1939 ausgerufen.",
+            "Obwohl die Slowakei damit zum ersten Mal in ihrer modernen Geschichte unabhängig wurde, blieb sie ein Satellitenstaat des nationalsozialistischen Deutschlands.",
+            "Diese Zeit gehört zu den umstrittensten Kapiteln der slowakischen Geschichte.",
+            "Jozef Tiso war nicht nur Politiker, sondern auch katholischer Priester.",
+            "Manche Slowaken betrachten ihn als den Mann, der die slowakische Staatlichkeit in einer schwierigen Zeit bewahrte.",
+            "Andere machen ihn für die Zusammenarbeit mit dem nationalsozialistischen Deutschland sowie für die Verfolgung und Deportation slowakischer Juden verantwortlich.",
+            "Tatsächlich gewährte Tiso Ausnahmen, die Tausende Juden vor der Deportation retteten. Unter seiner Regierung wurden jedoch Zehntausende slowakische Juden in nationalsozialistische Konzentrations- und Vernichtungslager deportiert.",
+            "Nach der Veröffentlichung des berühmten Vrba-Wetzler-Berichts im Jahr 1944, der die Verbrechen in Auschwitz enthüllte, wurden weitere Deportationen aus der Slowakei weitgehend gestoppt.",
+            "Noch heute diskutieren Historiker über diese schwierige Zeit der slowakischen Geschichte.",
+            "Nach dem Zweiten Weltkrieg fanden 1946 in der Tschechoslowakei freie Parlamentswahlen statt.",
+            "In der Slowakei gewann die Demokratische Partei die Wahl. Auf gesamtstaatlicher Ebene wurde jedoch die Kommunistische Partei zur stärksten politischen Kraft.",
+            "Im Februar 1948 ergriffen die Kommunisten durch einen Staatsstreich die Macht. Die Tschechoslowakei blieb daraufhin mehr als vierzig Jahre lang unter kommunistischer Herrschaft.",
+            "Das kommunistische Regime veränderte die Wirtschaft und Gesellschaft des Landes grundlegend.",
+            "Vor der kommunistischen Machtübernahme gehörte die Tschechoslowakei zu den am stärksten industrialisierten Ländern Europas.",
+            "Am Ende der kommunistischen Ära im Jahr 1989 war Österreich jedoch deutlich wohlhabender geworden.",
+            "1989 beendete die friedliche Samtene Revolution die kommunistische Herrschaft.",
+            "Seitdem hat die Slowakei enorme Fortschritte gemacht. Dennoch steht sie weiterhin vor einigen Herausforderungen, die ihre Wurzeln in der kommunistischen Vergangenheit haben – darunter Korruption, geringes Vertrauen in politische Institutionen und der Niedergang der traditionellen Landwirtschaft.",
+            "Am 1. Januar 1993 teilte sich die Tschechoslowakei friedlich in zwei unabhängige Staaten: die Tschechische Republik und die Slowakei.",
+            "Die Teilung wurde von den politischen Führern ausgehandelt und nicht durch ein landesweites Referendum entschieden.",
+            "Heute ist die Tschechische Republik wirtschaftlich noch immer stärker, obwohl die Slowakei seit ihrer Unabhängigkeit bemerkenswerte Fortschritte gemacht hat.",
+            "Die Slowakei trat 2004 der Europäischen Union bei und führte 2009 den Euro als Währung ein."
+          ]
+        },
+        {
+          "id": "history-6-today",
+          "title": "Die Slowakei heute",
+          "text": [
+            "Die Slowakei gehört nach wie vor zu den konservativeren Ländern Europas, und das Christentum spielt weiterhin eine wichtige Rolle in der Gesellschaft.",
+            "Die slowakische Verfassung definiert die Ehe als Verbindung zwischen einem Mann und einer Frau. Gleichgeschlechtliche Ehen und eingetragene Partnerschaften werden nach slowakischem Recht derzeit nicht anerkannt.",
+            "Etwa zwei Drittel der Bevölkerung bezeichnen sich als Christen. Die römisch-katholische Kirche ist dabei die größte Konfession.",
+            "In der Ostslowakei ist außerdem die griechisch-katholische Kirche stark vertreten. Sie folgt der byzantinischen Liturgie und steht gleichzeitig in Gemeinschaft mit dem Papst.",
+            "Im Vergleich zu vielen westeuropäischen Ländern hat die Slowakei eine relativ kleine Einwandererbevölkerung.",
+            "Neben der slowakischen Mehrheit ist die ungarische Gemeinschaft die größte nationale Minderheit. Sie lebt hauptsächlich in der Südslowakei.",
+            "Daneben gibt es ukrainische, ruthenische, tschechische und Roma-Minderheiten sowie eine kleinere vietnamesische Gemeinschaft, die bereits seit der kommunistischen Ära in der Slowakei lebt.",
+            "Wie viele europäische Länder steht auch die Slowakei derzeit vor mehreren wichtigen Herausforderungen.",
+            "Dazu gehören die Bekämpfung der Korruption und die Stärkung des Vertrauens in öffentliche Institutionen, die Verringerung der Abwanderung junger und gut ausgebildeter Menschen nach Westeuropa sowie der Umgang mit der niedrigen Geburtenrate und der alternden Bevölkerung.",
+            "Eine weitere wichtige Herausforderung besteht darin, die Bildung, die Beschäftigungsmöglichkeiten und die Lebensbedingungen sozial ausgegrenzter Roma-Gemeinschaften zu verbessern, insbesondere in Teilen der Ostslowakei.",
+            "Diese Themen gehören auch heute zu den wichtigsten sozialen und politischen Herausforderungen des Landes."
+          ]
+        },
+        {
+          "id": "wine-route",
+          "title": "Die Kleinkarpaten-Weinstraße",
+          "text": [
+            "Nur wenige Menschen wissen, dass die Slowakei auch ein Weinbauland ist. Rund 95 % der slowakischen Weinproduktion werden im Inland konsumiert, während nur etwa 5 % exportiert werden.",
+            "Die Slowakei hat sechs wichtige Weinbaugebiete.",
+            "Die Kleinkarpaten-Weinstraße, die Sie heute erkunden, ist eines der bekanntesten Weingebiete der Slowakei. Sie erstreckt sich über etwa 60 Kilometer. Sie beginnt am Fuße der Kleinen Karpaten im Bratislavaer Stadtteil Rača, den wir bereits passiert haben, und führt weiter bis zur historischen Stadt Trnava, die oft als das kleine Rom der Slowakei bezeichnet wird.",
+            "Dies ist das bekannteste Weingebiet der Slowakei, und viele sind der Meinung, dass hier die besten Weine des Landes erzeugt werden. Im nördlichen Teil der Region dominieren Weißweine, insbesondere Sorten wie Veltlínske zelené, auf Deutsch Grüner Veltliner. Im südlichen und zentralen Teil sind Rotweine häufiger, darunter Frankovka modrá, auf Deutsch Blaufränkisch, und Blauer Portugieser.",
+            "In den letzten Jahren sind auch Roséweine in dieser Region immer beliebter geworden. Aufgrund des Klimawandels, der einzigartigen Bodenbeschaffenheit und der idealen Hanglagen der Karpaten haben Roséweine hier eine hervorragende Qualität entwickelt und erfreuen sich wachsender Beliebtheit. Viele Besucher aus traditionellen Weinländern wie Frankreich, Spanien und Italien haben die außergewöhnliche Qualität slowakischer Roséweine bestätigt.",
+            "Das zweitbekannteste Weingebiet ist Tokaj im Osten der Slowakei, das sich bis nach Ungarn erstreckt. Es ist weltberühmt für seine süßen Dessertweine aus edelfaulen Trauben.",
+            "Das südslowakische Weingebiet ist für sein wärmeres Klima und die hervorragenden Bedingungen für die Rotweinproduktion bekannt. Hier werden unter anderem hochwertige Cabernet-Sauvignon-Weine erzeugt.",
+            "Das Weingebiet Nitra liegt in der Nähe der historischen Stadt Nitra, einer der ältesten Städte der Slowakei, etwa eine Stunde von Bratislava entfernt.",
+            "Das mittelslowakische Weingebiet liegt in der Zentralslowakei. Es ist geprägt von kleineren Weinbergen und einer bergigeren Landschaft. Dadurch entstehen Weine mit ausgeprägter Frische und Säure.",
+            "Die Region Záhorie liegt nordwestlich von Bratislava, nahe der tschechischen Grenze. Ihr sandiger Boden verleiht den Weinen einen einzigartigen Charakter. Der berühmteste Wein dieser Region ist der Skalický rubín, ein charaktervoller Rotwein mit geschützter geografischer Herkunft.",
+            "Der slowakische Weinbau ist auch für seine einzigartigen Rebzüchtungsprogramme bekannt. Slowakische Forschungszentren haben mehrere eigene Rebsorten entwickelt, die oft nach slowakischen Flüssen oder nach historischen und mythologischen Motiven benannt sind.",
+            "Zu den berühmtesten slowakischen Weißweinsorten gehören Devín, eine Kreuzung aus Tramín červený und Veltlínske červenobiele, sowie Noria, Milia und Breslava. Zu den roten Rebsorten zählen Dunaj, die bekannteste slowakische Rotweinsorte, sowie Hron, Váh, Rimava und Nitria.",
+            "Zu den am weitesten verbreiteten traditionellen Rebsorten in der Slowakei gehören Veltlínske zelené, Rizling vlašský und Frankovka modrá."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "castle-arrival",
+      "title": "Burg Roter Stein — Ankunft",
+      "subtitle": "Am Parkplatz der Burg anhören",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "arrival-red-stone",
+          "title": "Ankunft an der Burg Roter Stein",
+          "text": [
+            "Wir sind nun am Parkplatz der Burg Roter Stein angekommen.",
+            "Der Fußweg vom Parkplatz zum Burghof, wo die Führung beginnt, dauert etwa fünf bis sieben Minuten.",
+            "Der Treffpunkt befindet sich rechts vom Brunnen im Burghof.",
+            "Bitte halten Sie Ihre Eintrittskarten bereit, bevor die Führung beginnt.",
+            "Die Führung beginnt von Oktober bis Mai um 13:30 Uhr. Von Juni bis September sowie an Wochenenden im Mai beginnt sie um 13:00 Uhr.",
+            "Wir wünschen Ihnen viel Freude bei Ihrem Besuch einer der schönsten Renaissanceburgen der Slowakei."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "castle-museum",
+      "title": "Burg Roter Stein — Museum",
+      "subtitle": "Tippen Sie auf jeden Raum, sobald Sie ihn betreten",
+      "mode": "rooms",
+      "tracks": [
+        {
+          "id": "castle-history",
+          "title": "Burg Červený Kameň — Einführung",
+          "text": [
+            "Die Burg Červený Kameň wurde nach 1241 erbaut, als eine von vielen Steinburgen, die im Rahmen eines von König Béla IV. und dem lokalen Adel geförderten Bauprogramms errichtet wurden. Sie wurde zu einer der Grenzfestungen, die die Verteidigungslinie von der Burg Devín bei Bratislava bis zur Burg Strečno in der Nordslowakei bildeten – eine Strecke von etwa 200 Kilometern.",
+            "Während des gesamten Mittelalters vergaben die ungarischen Könige die Burg als Belohnung für militärische oder finanzielle Dienste an verschiedene Adelsfamilien. Dadurch wechselte ihr Besitz mehrmals. Zu den bedeutendsten Besitzern gehörten Matthäus Csák von Trentschin, die Familie Wolfurt, die Familie Zápolya und die Familie Thurzo. Die meisten von ihnen besaßen die Burg jedoch nur für kurze Zeit.",
+            "Die Familien, die für ihre weitere Geschichte die wichtigste Rolle spielten, waren jene, die die Burg im 16. Jahrhundert erwarben. In der ersten Hälfte dieses Jahrhunderts gehörte sie den Fuggern, einer der reichsten Kaufmannsfamilien Europas. Sie ließen die mittelalterliche gotische Burg abreißen und ersetzten sie durch eine Renaissancefestung, die als Lager für Waren aus ihren weitreichenden Handelsaktivitäten dienen sollte.",
+            "Gegen Ende des 16. Jahrhunderts war der kommerzielle Einfluss der Familie Fugger in Ungarn jedoch geschwunden, und sie beschlossen, das Anwesen zu verkaufen. Der neue Besitzer war Miklós II. Pálffy, der Maria Magdalena Fugger geheiratet hatte. Ein Teil des Anwesens wurde ihm als ihre Mitgift übertragen. Ab 1588 waren Miklós und Maria die alleinigen Besitzer von Červený Kameň und begannen, die Burg in eine prächtige Familienresidenz umzuwandeln.",
+            "Die Familie Pálffy blieb bis 1945 Besitzerin des Anwesens. In diesem Jahr floh sie vor der vorrückenden sowjetischen Armee nach Österreich. 1949 wurde die Burg zum staatlichen Kulturgut erklärt und hier ein Museum eingerichtet. Heute zeigt es die Entwicklung der aristokratischen Wohnkultur vom 16. bis zum frühen 20. Jahrhundert sowie die Geschichte der Militärtechnik in slowakischen Burgen."
+          ]
+        },
+        {
+          "id": "sala-terrena",
+          "title": "Gartensaal (Sala Terrena)",
+          "text": [
+            "Die Sala Terrena, italienisch für „Gartensaal“, gilt als einer der größten Schätze der Burg Červený Kameň. Sie wurde hier im 17. Jahrhundert von Miklós IV. Pálffy erbaut, inspiriert von seinen Eindrücken während seiner Grand Tour durch Italien.",
+            "Er lud geschickte Handwerker ein – darunter Stuckateure, Steinmetze, Maler und andere Künstler –, um die Burg in eine prächtige barocke Residenz zu verwandeln. Die Fresken in diesem Saal und in den folgenden Räumen wurden zwischen 1654 und 1657 vom italienischen Meister Carpoforo Tencalla gemalt.",
+            "Säle dieser Art entstanden in Italien. Sie wurden als Teil von Palastgärten geschaffen oder in Paläste, Schlösser und Villen integriert und öffneten sich meist direkt zum umliegenden Gelände.",
+            "Gegenüber dem Saal befindet sich eine künstliche Grotte aus natürlichem Karstgestein, die aus einer Höhle unterhalb der Burg Bojnice hierher gebracht wurde. Einst floss Wasser aus der Grotte und aus sogenannten Maskaronen – dekorativen Steingesichtern, die in die Wände eingebaut waren – und schuf eine Atmosphäre von Luxus und Prestige.",
+            "Die Familie Pálffy nutzte diesen Raum zur Entspannung an heißen Sommertagen und -abenden. Hier wurden auch Theateraufführungen abgehalten. Heute wird die Sala Terrena hauptsächlich für standesamtliche Trauungen genutzt."
+          ]
+        },
+        {
+          "id": "lower-hall-coach",
+          "title": "Unterer Saal — Vor der Kutsche",
+          "text": [
+            "Vor uns steht eine Kutsche aus dem 19. Jahrhundert, die aus Smolenice hierher auf die Burg Červený Kameň gebracht wurde. Sie gehörte einst Móric Pálffy.",
+            "Die Türen sind mit dem Wappen der Familie Pálffy geschmückt, und eine Legende erzählt die Geschichte, wie dieses Wappen entstanden sein soll.",
+            "Der Legende nach kehrte die Familie Pálffy in einer dunklen Nacht von einer langen Reise zurück, als ein plötzlicher Sturm ihre Pferde erschreckte. Ein Hirsch trat aus dem Wald und stieß mit seinem Geweih gegen das Hinterrad der Kutsche, das dabei zerbrach.",
+            "Die Reisenden mussten die Nacht im Wald verbringen. Bei Tagesanbruch entdeckten sie, dass die Brücke vor ihnen vom Sturm weggerissen worden war und an ihrer Stelle eine steile Schlucht klaffte.",
+            "Der Hirsch hatte ihnen das Leben gerettet – um den Preis seines eigenen. Aus Dankbarkeit nahm die Familie Pálffy das Tier in ihr Wappen auf.",
+            "Die historische Wahrheit ist allerdings weniger dramatisch. Zu Beginn des 16. Jahrhunderts heiratete ein Pálffy-Adliger namens Pavol Klára aus der Familie Bakóc-Erdődy und übernahm Elemente ihres Wappens neben seinem eigenen. Mit der Zeit wurden die beiden Symbole so verändert, dass die beiden Familien weiterhin voneinander unterschieden werden konnten."
+          ]
+        },
+        {
+          "id": "pharmacy",
+          "title": "Apotheke",
+          "text": [
+            "Die einst als „Zum Goldenen Adler“ bekannte Apotheke stammt aus der zweiten Hälfte des 17. Jahrhunderts und wurde während der von Miklós IV. Pálffy durchgeführten Renovierungen eingerichtet.",
+            "Sie diente ausschließlich dem Burghaushalt und war nie für die Öffentlichkeit zugänglich. Hier wurden Heilmittel gegen verschiedene Leiden zubereitet, ebenso Liköre, Kosmetika und medizinische Süßwaren.",
+            "Ein Rezeptbuch aus dem Jahr 1727 ist erhalten geblieben und enthält 824 Rezepturen.",
+            "Die ausgestellte Einrichtung stammt aus dem Jahr 1752. In den Schubladen wurden Heilkräuter aufbewahrt, während Pulver, Pillen und Süßigkeiten in Standgefäßen aufbewahrt wurden.",
+            "Zum letzten Mal wurde die Apotheke in den 1830er-Jahren betrieben, während einer Choleraepidemie, die sich über die gesamte Slowakei ausbreitete."
+          ]
+        },
+        {
+          "id": "upper-hall",
+          "title": "Oberer Saal",
+          "text": [
+            "In ovalen Nischen direkt unter der Decke befinden sich Büsten von Mitgliedern der Habsburger-Dynastie. Sie spiegeln die Bewunderung und Treue wider, die die Familie Pálffy dem Herrscherhaus entgegenbrachte.",
+            "An der Wand hängt ein Wandteppich, der das mythologische Gespräch zwischen Phaeton und seinem Vater, dem Sonnengott Helios, darstellt.",
+            "Ihm gegenüber stehen kunstvoll vergoldete Zeremonienschlitten aus Hlohovec. Sie waren Symbole von Reichtum und gesellschaftlichem Status für diejenigen, die es sich leisten konnten, solche luxuriösen Gefährte zu besitzen oder in Auftrag zu geben.",
+            "Über der Treppe hängen Porträts von Husaren aus dem Regiment von Rudolf Pálffy, die im Dienst Maria Theresias kämpften.",
+            "Zwischen den Fenstern befinden sich Porträts von Mitgliedern der Familie Zichy. Betrachten Sie sie genau, wenn Sie vorbeigehen: Ihre Augen scheinen Ihnen zu folgen, und sogar ihre Schuhspitzen scheinen sich in Ihre Richtung zu drehen. Das ist eine von den Malern bewusst geschaffene Illusion.",
+            "Unter den Porträts stehen vor allem italienische Renaissancetruhen. Sie dienten einst zur Aufbewahrung von Gegenständen, bevor Schränke wie der am hinteren Ende des Raumes üblich wurden."
+          ]
+        },
+        {
+          "id": "renaissance-hall",
+          "title": "Renaissancesaal",
+          "text": [
+            "Dieser Raum zeigt eine Sammlung von Renaissancemöbeln. Obwohl Stühle und Bänke dieser Zeit oft kunstvoll geschnitzt waren, waren sie nicht besonders bequem, da gepolsterte Sitzmöbel noch nicht üblich waren.",
+            "Die Decke ist mit einem reichen Freskenzyklus geschmückt. In seinem Zentrum befindet sich eine Szene aus der Genesis, die Hagar in der Wüste darstellt. Vier kleinere Kartuschen zeigen weibliche Figuren, die Großzügigkeit, Reichtum, Fülle und Belohnung verkörpern.",
+            "Unter der Figur der Fülle hängt ein Wandteppich, der einst einem doppelten Zweck diente: Er war einerseits eine kostspielige Zurschaustellung des Reichtums seines Besitzers und diente andererseits als Isolierung gegen die Kälte.",
+            "An der gegenüberliegenden Wand hängt ein Witwenporträt von Maria Magdalena Fugger, der Frau von Miklós II. Pálffy.",
+            "Daneben steht ein sogenannter Thronsessel mit Stauraum und einer Rückenlehne, die für zusätzlichen Komfort sorgen sollte."
+          ]
+        },
+        {
+          "id": "renaissance-dining",
+          "title": "Renaissance-Speisesaal",
+          "text": [
+            "Die Renaissance war die Zeit, in der Schränke und Kommoden erstmals in Speisesälen auftauchten. Sie dienten hauptsächlich zur Aufbewahrung von Geschirr und Besteck.",
+            "Jeder Raum der Burg wird durch einen Ofen oder Kamin beheizt. Diese besonderen Öfen wurden von Habaner-Handwerkern gefertigt. Früher wurden nur wenige Räume beheizt – nämlich jene, die tatsächlich von der Familie bewohnt wurden.",
+            "Der Speisesaal ist mit mehreren Porträts geschmückt, darunter eines von Eva Zuzana Pálffy, die als die schönste Frau gegolten haben soll, die jemals auf der Burg lebte.",
+            "Das Porträt ist jedoch tatsächlich eine Schöpfung des 19. Jahrhunderts und kein authentisches historisches Abbild.",
+            "Das Deckenfresko stellt die Geschichte von Josef und seinen Brüdern dar, einschließlich Szenen von Josef und der Frau des Potifar."
+          ]
+        },
+        {
+          "id": "empire-bedroom",
+          "title": "Empire-Schlafzimmer",
+          "text": [
+            "Dieser Raum ist im russischen Empire-Stil eingerichtet und nicht in der französischen Variante.",
+            "Der Stil bedeutete eine erneute Hinwendung zur klassischen Antike und ließ sich gleichzeitig vom alten Ägypten und anderen frühen Zivilisationen inspirieren.",
+            "Diese Möbel kamen nach 1945 auf die Burg. Ihr besonderer Wert liegt darin, dass sie als vollständiges, zusammengehöriges Ensemble erhalten geblieben sind – einschließlich des Schlafzimmers und des angrenzenden Salons.",
+            "Betrachten Sie genau das Bett zwischen den Fenstern. Es wirkt fast zu kurz für einen Erwachsenen, eher wie ein Kinderbett.",
+            "In Wirklichkeit handelt es sich jedoch um ein normales Einzelbett von zwei Metern Länge. Die hohen Seitenteile erzeugen lediglich eine optische Täuschung und lassen das Bett kürzer erscheinen.",
+            "Die Porträts der Damen in diesem Raum fangen die Mode der damaligen Zeit wunderschön ein, mit eleganten Roben aus feiner Seide und Musselin."
+          ]
+        },
+        {
+          "id": "behind-bars",
+          "title": "Hinter Gittern",
+          "text": [
+            "Dieser Raum ermöglicht einen Vergleich zwischen den osteuropäischen Empire-Möbeln aus dem vorherigen Raum und ihren französischen und mitteleuropäischen Gegenstücken.",
+            "Etwa zur gleichen Zeit entstand der Biedermeier-Stil. In seinen Formen war er eng mit dem Empire verwandt, richtete sich aber an ein anderes Publikum: das aufstrebende Bürgertum.",
+            "Statt Luxus und Zurschaustellung setzte der Biedermeier auf Schlichtheit, Zweckmäßigkeit und Behaglichkeit.",
+            "Das große gestreifte Sofa hier ist ein gutes Beispiel für diesen Stil. Der Biedermeier blühte vor allem in Mitteleuropa und im deutschsprachigen Raum.",
+            "Zu den wertvollen Gemälden in diesem Raum gehören Darstellungen von Musen in Empire-Roben. Sie sind zwischen den Fenstern ausgestellt und stammen von der Künstlerin Barbara Krafft.",
+            "Es folgen Porträts von drei bedeutenden historischen Persönlichkeiten: Graf Benedikt Daun, Kaiser Leopold II. und Kaiser Franz Joseph I."
+          ]
+        },
+        {
+          "id": "weapons-1",
+          "title": "Waffenkammer — Raum 1",
+          "text": [
+            "Dieser erste Waffenraum enthält Stücke aus der eigenen Sammlung der Familie Pálffy, darunter sowohl Blank- als auch Feuerwaffen.",
+            "Er ermöglicht außerdem einen Vergleich zwischen der Rüstung eines europäischen Soldaten und der eines osmanischen Kriegers.",
+            "In der zentralen Vitrine sind auf der einen Seite Husarenpistolen und Karabiner ausgestellt. Auf der anderen Seite sehen Sie Jagdmesser, Armbrüste, gebogene Kavalleriesäbel und gerade Breitschwerter."
+          ]
+        },
+        {
+          "id": "weapons-2",
+          "title": "Waffenkammer — Raum 2",
+          "text": [
+            "Der zweite Raum enthält schwerere Waffen: Gewehre mit verschiedenen Zündmechanismen sowie Hellebarden und Lanzen mit Holzschäften.",
+            "Beachten Sie die teilweise erhaltene Treppe hier. Sie führte einst durch die Bastei nach unten. Wir stehen nun auf ihrer oberen Ebene.",
+            "Die ausgestellten Kanonenkugeln wurden bei archäologischen Ausgrabungen auf der Burg in der zweiten Hälfte des 20. Jahrhunderts entdeckt.",
+            "Die Porträts des jungen Joseph II. zeigen ihn mit einer Waffe in der Hand – einem traditionellen Symbol für Macht und Autorität."
+          ]
+        },
+        {
+          "id": "corner-room",
+          "title": "Eckzimmer",
+          "text": [
+            "Dieser Raum diente möglicherweise einst als Isolier- oder Krankenzimmer. Darauf deutet das Relief des heiligen Rochus hin, des Schutzpatrons der Pestopfer, das sich in einer Ecknische befindet.",
+            "Heute ist der Raum als bürgerliches Schlafzimmer aus der zweiten Hälfte des 19. Jahrhunderts eingerichtet – einer Zeit, die vom Historismus geprägt war, also von der Wiederbelebung und Neuinterpretation früherer Kunststile.",
+            "Ein Doppelbett beherrscht den Raum. In der gegenüberliegenden Ecke steht ein Abtritt, also eine Trockentoilette, die einst direkt in den Burggraben entleert wurde. Daneben befinden sich ein Bidet und ein Nachttopf.",
+            "Die Fresken an der Decke des äußeren Flügels zeigen mythologische und heidnische Motive, die von den Werken des römischen Dichters Ovid inspiriert sind.",
+            "Hinter dem Schlafzimmer liegt ein kleines Boudoir, das man sich am besten als Ankleidezimmer oder privaten Umkleideraum vorstellen kann."
+          ]
+        },
+        {
+          "id": "baroque-bedroom",
+          "title": "Barockes Schlafzimmer (des Herrn)",
+          "text": [
+            "Das Herzstück dieses Raumes ist ein reich geschnitztes Bett, das einst František Wesselényi gehörte, dem ungarischen Palatin – dem höchsten Amtsträger im Königreich Ungarn nach dem König selbst, ungefähr vergleichbar mit einem heutigen Premierminister.",
+            "Die Pracht des Bettes sollte seinen gesellschaftlichen Status und seine politische Macht widerspiegeln.",
+            "An der Decke stellt ein Fresko eine Szene aus der Antike dar: den Tod der Kleopatra."
+          ]
+        },
+        {
+          "id": "pink-saloon",
+          "title": "Rosa Salon",
+          "text": [
+            "Der Salon ist nach seinem rosa Marmorkamin benannt. Er zeigt Marketerie, vielleicht die am weitesten verbreitete Technik zur Verzierung hochwertiger Möbel.",
+            "Die florale Einlegearbeit an dem Möbelstück neben dem Kamin ist typisch für das England des frühen 18. Jahrhunderts, während der Regierungszeit von Königin Anne. Nach ihr wurde dieser Stil benannt: der Queen-Anne-Stil.",
+            "Auf der anderen Seite des Raumes stehen mehrere beliebte Sekretäre – multifunktionale Möbelstücke, die zur Aufbewahrung dienten und sich in Schreibtische verwandeln ließen, wenn die Frontplatte heruntergeklappt wurde."
+          ]
+        },
+        {
+          "id": "knights-hall",
+          "title": "Rittersaal",
+          "text": [
+            "Der größte Raum der Burg nimmt die gesamte Breite des Flügels ein. Der Rittersaal dient als eine Art Ahnengalerie und bewahrt die Erinnerung an die militärischen Errungenschaften der Familie.",
+            "Besonders stolz war die Familie Pálffy auf ihre Siege über die Osmanen, und die Ausstattung dieses Saals spiegelt diesen Stolz wider.",
+            "Über dem Kamin hängt der Schild eines osmanischen Kriegers, ausgestellt neben Porträts zweier Sultane – Mehmed III. und Süleyman I.",
+            "An der gegenüberliegenden Wand befindet sich ein Totenschild zum Gedenken an Štefan Pálffy. Auf seinem unteren Teil ist ein ungarischer Soldat dargestellt, der über dem Kopf eines besiegten osmanischen Kriegers steht."
+          ]
+        },
+        {
+          "id": "library",
+          "title": "Bibliothek",
+          "text": [
+            "Die Bibliothek umfasste einst rund 14.000 Bände. Die meisten davon wurden später in Fachinstitutionen in Bratislava überführt.",
+            "Was heute hier verblieben ist, stellt nur einen kleinen Teil der ursprünglichen Sammlung dar.",
+            "Die Bücher sind hauptsächlich auf Deutsch, Latein und Ungarisch verfasst. Daneben gibt es einige Bände auf Französisch, Englisch und Italienisch.",
+            "Der eifrigste Sammler der Familie war Rudolf Pálffy, ein Zeitgenosse Maria Theresias.",
+            "Über den Regalen hängt ein Porträt von Vojtech Pálffy. Betrachten Sie es genau, und Sie werden hinter dem Vorhang die Burg Červený Kameň entdecken.",
+            "Er war eines der letzten Familienmitglieder, die hier lebten. Sowohl seine Kleidung als auch die Burg im Hintergrund wurden sorgfältig ausgewählt, um sein adliges Erbe hervorzuheben."
+          ]
+        },
+        {
+          "id": "chapel",
+          "title": "Kapelle",
+          "text": [
+            "Die Burgkapelle ist einer der schönsten künstlerischen Schätze der Burg und ein hervorragendes Beispiel barocker Sakralkunst.",
+            "Sie diente den täglichen Andachten der Bewohner des Schlosses."
+          ]
+        },
+        {
+          "id": "great-dining-hall",
+          "title": "Großer Speisesaal",
+          "text": [
+            "Im Stil der Ära Maria Theresias eingerichtet, spiegelt der Große Speisesaal die starke Treue der Familie Pálffy zur Habsburger-Dynastie wider – sowohl durch seine Möbel als auch durch seine Porträts.",
+            "Maria Theresia und ihr Gemahl, Franz Stephan von Lothringen, beherrschen den Raum. Daneben sehen Sie Porträts mehrerer Familienmitglieder, vor allem Joseph II., ihres späteren Nachfolgers.",
+            "Neben dem Ofen, der vom angrenzenden Rittersaal beheizt wird, ist Joseph als Erwachsener dargestellt. An der gegenüberliegenden Wand sehen Sie ihn als Jungen.",
+            "Auf der anderen Seite des Raumes hängt ein Porträt von Kaiser Karl VI., der vor allem für die Pragmatische Sanktion bekannt ist. Sie sicherte die habsburgische Thronfolge auch über die weibliche Linie.",
+            "Ihm gegenüber befinden sich Porträts einer der Töchter Maria Theresias, Maria Christina, genannt Mimi, und ihres Gemahls, Albert von Sachsen-Teschen.",
+            "Das Paar lebte in Bratislava, später in Brüssel und schließlich in Wien, wo es die berühmte Kunstgalerie Albertina gründete."
+          ]
+        },
+        {
+          "id": "empire-saloon",
+          "title": "Empire-Salon",
+          "text": [
+            "Die Empire-Möbel hier bilden ein einziges, zusammengehöriges Ensemble. Sie wurden aus Russland hierher gebracht, wo der Stil bis weit in die zweite Hälfte des 19. Jahrhunderts hinein modern blieb.",
+            "Die Möbel sind aus Birkenholz gefertigt und mit grünem Stoff bezogen. Sie geben auch einen Einblick in die Mode der damaligen Zeit – mit hohen Kragen und lockeren, ungezwungenen Frisuren bei den Männern."
+          ]
+        },
+        {
+          "id": "oriental-saloon",
+          "title": "Orientalischer Salon",
+          "text": [
+            "Im 18. Jahrhundert setzte sich das Rokoko – ein kunstvoller Stil mit orientalischen Einflüssen – in ganz Europa durch. Die Salons wurden entsprechend mit importierten Objekten ausgestattet.",
+            "Mit der steigenden Nachfrage stiegen auch die Preise. Das veranlasste europäische Werkstätten dazu, erschwinglichere Nachbildungen dieser orientalischen Objekte herzustellen. Einige Beispiele sehen Sie im Eckschrank.",
+            "Das ausgestellte chinesische und japanische Porzellan stammt aus dem 18. und 19. Jahrhundert und spiegelt die umfangreichen Sammlungen wider, die Rudolf Pálffy zusammengetragen hat."
+          ]
+        },
+        {
+          "id": "rococo-saloon",
+          "title": "Rokoko-Salon",
+          "text": [
+            "Rudolf Pálffy und seine Frau Eleonore Kaunitz, deren Porträts zwischen den Fenstern hängen, gaben diesen Salon während des Wiederaufbaus der Burg nach einem Brand in Auftrag.",
+            "Er beherbergt eine einzigartige Galerie, die als „Die Blauen Damen“ bekannt ist. Sie zeigt Porträts junger adliger Frauen, die an der Klosterschule Notre Dame in Bratislava studierten, einer der besten Bildungseinrichtungen der Region zu jener Zeit.",
+            "Traditionell ließen sich die Absolventinnen am Ende ihrer Ausbildung porträtieren – in den blauen Kleidern, die als Schuluniform dienten. Diese Tradition erinnert ein wenig an die Abschlussfotos, die wir heute kennen."
+          ]
+        },
+        {
+          "id": "golden-saloon",
+          "title": "Goldener Salon",
+          "text": [
+            "Die Möbel hier spiegeln die Ära des französischen Königspaares Ludwig XVI. und Marie Antoinette wider.",
+            "Die ausgestellte Uhr wurde in Brünn gefertigt, das einst ein bedeutendes Zentrum der Uhrmacherei war."
+          ]
+        },
+        {
+          "id": "gentlemans-study",
+          "title": "Herrenzimmer",
+          "text": [
+            "Dieser Raum stellt ein Herrenzimmer aus dem späten 18. und frühen 19. Jahrhundert dar, komplett mit einem Schreibtisch und einem Spieltisch.",
+            "An diesem Tisch spielten die Herren einst Glücks- und Gesellschaftsspiele. Ihre Münzen oder Spielsteine legten sie in kleine Vertiefungen, die in die Tischplatte geschnitzt waren.",
+            "Ohrensessel wie diese dienten zum Lesen oder einfach zum Entspannen.",
+            "Über dem Kamin hängt ein besonders interessantes Porträt: Miklós II. Pálffy, das erste Familienmitglied, das Červený Kameň besaß. Er ist unter einem Steinrelief dargestellt, das seinen berühmtesten Sieg zeigt – die Schlacht bei Győr im Jahr 1598.",
+            "Damals stand Győr, im heutigen Nordungarn, unter osmanischer Kontrolle. Miklós, der sich während des Langen Türkenkriegs als geschickter Militärstratege erwiesen hatte, eroberte die Stadt zurück. Diese Leistung wurde in der gesamten christlichen Welt gefeiert.",
+            "Kirchenglocken läuteten zu seinen Ehren in der gesamten Habsburgermonarchie.",
+            "Er lebte nicht lange genug, um seinen Ruhm zu genießen, und starb im Jahr 1600. Er hinterließ jedoch Erben, die seinem Beispiel folgten: seinen Sohn Štefan als Militärkommandeur und seinen Sohn Pavol als Staatsmann.",
+            "Ein kurioses Detail ist in diesem Raum verborgen: Die Kommode rechts vom Kamin verbirgt eine versteckte Toilette. Der dazugehörige keramische Nachttopf wurde später von den Dienern entfernt, die ihn einst leerten."
+          ]
+        },
+        {
+          "id": "antechamber",
+          "title": "Letzter Raum — Vorzimmer",
+          "text": [
+            "Hier hängt ein Porträt von Maria Theresia in Schwarz, in Trauer um den Tod ihres Gemahls.",
+            "Das eigentliche Glanzstück dieses Raumes ist jedoch eine Bronzereplik von Michelangelos „Madonna mit Kind“, die um die Wende vom 19. zum 20. Jahrhundert gegossen wurde.",
+            "Das Marmororiginal befindet sich in der Kathedrale von Brügge. Dieser Bronzeguss ist eine von nur fünf solchen Repliken weltweit. Die anderen befinden sich in New York, Edinburgh, Florenz und Washington.",
+            "Das macht sie zu einem außergewöhnlichen Kunstwerk – nicht nur innerhalb der Museumssammlung, sondern in der gesamten Slowakei."
+          ]
+        },
+        {
+          "id": "after-castle",
+          "title": "Nach Ihrem Besuch",
+          "text": [
+            "Wir hoffen, Sie hatten Freude an Ihrem Besuch der Burg Roter Stein.",
+            "Ihr Fahrer erwartet Sie am Parkplatz der Burg Roter Stein, an derselben Stelle, an der Sie vor der Führung ausgestiegen sind.",
+            "Unsere Reise führt uns nun weiter in die reizvollen Weinstädte Modra, Pezinok und Svätý Jur. Dort werden Sie das Herz des berühmten Kleinkarpaten-Weingebiets der Slowakei entdecken.",
+            "Bitte kehren Sie nun zum Fahrzeug zurück, und wir setzen unsere Tour fort."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modra",
+      "title": "Modra",
+      "subtitle": "Die Stadt von Ľudovít Štúr und der Majolika",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "modra-main",
+          "title": "Willkommen in Modra",
+          "text": [
+            "Willkommen in Modra, einer der malerischsten Weinstädte der Slowakei.",
+            "Modra wurde 1607 zur Königlichen Freistadt und hat heute etwa 9.000 Einwohner. Die Stadt liegt an den südöstlichen Hängen der Kleinen Karpaten, etwa 20 Kilometer nordöstlich von Bratislava. Heute gilt sie als Teil des größeren Ballungsraums von Bratislava.",
+            "Modra ist aus mehreren Gründen berühmt.",
+            "Zunächst einmal ist Modra eng mit Ľudovít Štúr verbunden, einer der wichtigsten Persönlichkeiten der slowakischen Geschichte.",
+            "Štúr war Politiker, Schriftsteller, Lehrer und Sprachwissenschaftler und wurde im 19. Jahrhundert zum Anführer der slowakischen Nationalbewegung. Er setzte sich für mehr Rechte der Slowaken innerhalb des Königreichs Ungarn ein – darunter das Recht, die slowakische Sprache im öffentlichen Leben zu verwenden, die Gründung slowakischer Schulen von der Grundschule bis zur Universität sowie mehr politische Autonomie.",
+            "Seine vielleicht größte Leistung war die Kodifizierung der modernen slowakischen Schriftsprache im Jahr 1843. Er stützte die Standardsprache auf den mittelslowakischen Dialekt, der bis heute die Grundlage des modernen Slowakischen bildet.",
+            "Viele slowakische Schüler geben ihm scherzhaft die Schuld an der Komplexität der slowakischen Grammatik – insbesondere an der berühmten Herausforderung, zu entscheiden, wann man die Buchstaben „i“ und „y“ schreibt. Selbst vielen Muttersprachlern fällt das gelegentlich schwer.",
+            "Vor Ihnen steht ein Denkmal, das Ľudovít Štúr und seinen engsten Anhängern gewidmet ist. Sie sind gemeinsam als Štúrovci bekannt.",
+            "Štúr starb hier in Modra am 12. Januar 1856, nachdem er sich bei einer Jagd versehentlich selbst angeschossen hatte. Obwohl Historiker sich einig sind, dass es sich um einen Unfall handelte, behaupten lokale Legenden und Verschwörungstheorien seit Langem, dass er wegen seiner politischen Aktivitäten ermordet worden sein könnte.",
+            "Das Zweite, wofür Modra berühmt ist, ist seine traditionelle Keramik, bekannt als Modraer Majolika.",
+            "Jahrhundertelang war diese Region die Heimat einer großen deutschsprachigen Bevölkerung. Die meisten deutschen Siedler kamen im 13. Jahrhundert nach dem Mongoleneinfall, als König Béla IV. erfahrene Handwerker und Siedler einlud, das verwüstete Königreich wieder zu besiedeln.",
+            "Gleichzeitig stärkte er das Verteidigungssystem des Landes durch den Bau zahlreicher Steinburgen, darunter auch die Burg Roter Stein, die Sie heute besucht haben.",
+            "Eine weitere wichtige Gruppe kam im 16. und 17. Jahrhundert. Es waren die Habaner, Mitglieder der Täuferbewegung, hauptsächlich Hutterer, die vor religiöser Verfolgung aus der Schweiz und Süddeutschland flohen.",
+            "Die Habaner wurden für ihre außergewöhnliche Handwerkskunst berühmt, insbesondere für ihre wunderschön verzierte Fayence-Keramik. Ihre Techniken bildeten die Grundlage für die Keramiktradition von Modra, die bis heute fortbesteht.",
+            "Wenn Sie auf dem Hauptplatz stehen, finden Sie einen kleinen Keramikladen, in dem Sie authentische Modraer Majolika bewundern und kaufen können – eines der bekanntesten traditionellen Kunsthandwerke der Slowakei.",
+            "Modra ist außerdem für ihre Weinberge, ihre schöne Landschaft und ihre ausgezeichneten Wandermöglichkeiten bekannt. Viele Menschen aus Bratislava kommen am Wochenende hierher, um sich zu erholen, die Natur zu genießen oder lokale Weine zu verkosten.",
+            "Direkt außerhalb der Stadt finden Sie das beliebte Berghotel Zochova Chata. In der Nähe liegt außerdem Častá-Papiernička, ein Erholungsgebiet, das traditionell vom slowakischen Parlament für offizielle Klausuren und Treffen genutzt wird.",
+            "Wir wünschen Ihnen viel Freude bei Ihrem Besuch in Modra.",
+            "Bitte kehren Sie nach Ihrem Spaziergang durch die Stadt zum Fahrzeug zurück. Unser nächstes Ziel ist Pezinok, eine der wichtigsten Städte der slowakischen Weinproduktion. Die Fahrt dauert etwa zehn Minuten."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pezinok",
+      "title": "Pezinok",
+      "subtitle": "Die Hauptstadt des slowakischen Weins",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "pezinok-welcome",
+          "title": "Willkommen in Pezinok",
+          "text": [
+            "Willkommen in Pezinok, dem Herzen des slowakischen Weinlands.",
+            "Am Fuße der Kleinen Karpaten gelegen, nur 18 Kilometer nordöstlich von Bratislava, ist Pezinok eine reizvolle Stadt mit etwa 25.000 Einwohnern.",
+            "Sie verbindet jahrhundertealte Weinbautraditionen mit schönen Weinbergen, ausgezeichneter Gastronomie und einer lebendigen historischen Altstadt.",
+            "Wenn Sie sich umsehen, werden Sie die sanft geschwungenen, mit Weinbergen bedeckten Hügel bemerken, die diese Landschaft seit Jahrhunderten prägen.",
+            "Dank ihrer idealen Lage, ihrer ausgezeichneten Verkehrsanbindung und ihrer Nähe sowohl zu Österreich als auch zu Ungarn hat sich Pezinok von einer historischen Marktstadt zu einem der wichtigsten Zentren des slowakischen Weinbaus entwickelt.",
+            "Pezinok ist vor allem für zwei Dinge bekannt.",
+            "Zunächst einmal gilt Pezinok weithin als eine der Hauptstädte der slowakischen Weinproduktion. Jahrhundertelang war Wein das wertvollste Produkt der Stadt.",
+            "Jeden Herbst erwachen die Straßen während des traditionellen Weinlesefestes zum Leben. Die lokalen Weingüter öffnen ihre Keller, historische Umzüge ziehen durch die Stadt, und Besucher können Weine verkosten, die von Generationen lokaler Winzer hergestellt wurden.",
+            "Viele der führenden Weingüter, Weinhändler und Weinexperten der Slowakei sind hier ansässig. Dadurch ist Pezinok ein wichtiges Zentrum der Weinindustrie des Landes.",
+            "Das zweite Wahrzeichen, für das Pezinok bekannt ist, ist die Philippe-Pinel-Psychiatrie, eines der größten psychiatrischen Krankenhäuser der Slowakei. Die Einheimischen nennen es oft einfach „Cajla“, nach dem nahegelegenen Viertel, in dem sich das Krankenhaus befindet.",
+            "Wie in vielen Ländern hat die Existenz eines großen psychiatrischen Krankenhauses im Laufe der Jahre zahlreiche lokale Witze inspiriert.",
+            "Slowaken sagen manchmal scherzhaft, dass jemand, der sich etwas seltsam verhält, vielleicht eine Reise nach Cajla brauche.",
+            "Natürlich sind das nur lokale Witze. Heute ist das Krankenhaus eine angesehene medizinische Einrichtung, die Patienten aus der ganzen Slowakei spezialisierte psychiatrische Versorgung bietet."
+          ]
+        },
+        {
+          "id": "pezinok-history",
+          "title": "Eine Geschichte von Pezinok",
+          "text": [
+            "Die Geschichte von Pezinok reicht mehr als 800 Jahre zurück. Die Stadt wurde erstmals im Jahr 1208 in schriftlichen Aufzeichnungen unter dem Namen „terra Bozen“ erwähnt.",
+            "Was als kleine Siedlung begann, entwickelte sich unter der Herrschaft der Grafen von Svätý Jur und Pezinok allmählich zu einer wohlhabenden Marktstadt.",
+            "Dank ihrer günstigen Lage wurde sie zu einem wichtigen Zentrum für Handel, Handwerk und vor allem für die Weinproduktion.",
+            "Der Fleiß und der wachsende Wohlstand der Bürger wurden am 14. Juni 1647 belohnt, als König Ferdinand III. Pezinok den Status einer Königlichen Freistadt verlieh.",
+            "Dies markierte den Beginn des Goldenen Zeitalters der Stadt.",
+            "Im 17. und 18. Jahrhundert wurde Pezinok zu einer der wohlhabendsten Städte des Königreichs Ungarn. Ihr Wohlstand beruhte hauptsächlich auf der Produktion und dem Export hochwertiger Weine, die an Adelshöfen in ganz Mitteleuropa geschätzt wurden.",
+            "Das 19. Jahrhundert brachte eine rasche industrielle Entwicklung.",
+            "Pezinok wurde zur Heimat der ersten Schwefelsäurefabrik im Königreich Ungarn sowie einer Nadelfabrik und einer großen Ziegelei. Für kurze Zeit erlebte die Stadt sogar einen kleinen Goldrausch.",
+            "Die Ankunft der Eisenbahn stärkte die Position der Stadt als kommerzielles Herz des Kleinkarpaten-Weingebiets weiter.",
+            "Wie viele europäische Städte erlebte auch Pezinok in der ersten Hälfte des 20. Jahrhunderts schwierige Zeiten.",
+            "Die beiden Weltkriege und die Weltwirtschaftskrise trafen die lokale Wirtschaft schwer, insbesondere die Weinindustrie.",
+            "Da nur wenige Arbeitsplätze in der Industrie zur Verfügung standen, entschieden sich viele einheimische Familien zur Auswanderung, vor allem in die Vereinigten Staaten, auf der Suche nach einer besseren Zukunft.",
+            "Heute hat Pezinok seine historische Identität erfolgreich wiederentdeckt. Die Stadt ist erneut eine der führenden Weinstädte der Slowakei und verbindet ein reiches kulturelles Erbe mit modernen Weingütern, ausgezeichneter Gastronomie und einer lebendigen Gemeinschaft.",
+            "Wenn Sie durch die Straßen gehen, erleben Sie eine Stadt, in der mehr als acht Jahrhunderte Geschichte das tägliche Leben bis heute prägen."
+          ]
+        },
+        {
+          "id": "pezinok-centre",
+          "title": "Erkundung der historischen Altstadt",
+          "text": [
+            "Wenn Sie durch die historische Altstadt von Pezinok gehen, nehmen Sie sich einen Moment Zeit, um die wunderschön erhaltenen Bürgerhäuser und das traditionelle rechteckige Straßenraster zu bewundern, das seit Jahrhunderten nahezu unverändert geblieben ist.",
+            "Die historische Altstadt ist noch immer von Überresten der ursprünglichen steinernen Stadtbefestigung umgeben, die an die mittelalterliche Vergangenheit von Pezinok erinnern.",
+            "Heute beherbergt Pezinok mehr als 70 geschützte Kulturdenkmäler.",
+            "Eines der Highlights ist die Burg Pezinok, die ursprünglich aus dem 13. Jahrhundert stammt. Die Burg ist von einem schönen Schlosspark im englischen Stil umgeben, einer ruhigen Grünanlage, die sich perfekt für einen erholsamen Spaziergang eignet.",
+            "Für Architekturliebhaber bietet die Stadt viele faszinierende Beispiele aus verschiedenen historischen Epochen.",
+            "Sie können die eindrucksvolle römisch-katholische Kirche Mariä Himmelfahrt aus dem 14. Jahrhundert bewundern, deren hoher Turm die Silhouette der Stadt prägt.",
+            "Ein weiteres wichtiges Wahrzeichen ist die Kirche der Verklärung des Herrn, ein schönes Beispiel spät­renaissancistischer Architektur aus dem 17. Jahrhundert.",
+            "In der Nähe steht die elegante barocke Dreifaltigkeitskirche zusammen mit dem Kapuzinerkloster. Beide stammen aus dem 18. Jahrhundert.",
+            "Eine Empfehlung Ihres Erzählers: Verpassen Sie nicht das Renaissance-Rathaus aus dem 17. Jahrhundert und das berühmte Kaviak-Haus, das heute das Kleinkarpaten-Museum beherbergt. Es ist der Geschichte der Weinproduktion und dem kulturellen Erbe der Region gewidmet.",
+            "Nach der Erkundung der historischen Altstadt begeben Sie sich bitte langsam zurück zum Parkplatz, wo Ihr Fahrer auf Sie wartet.",
+            "Unsere Reise führt uns weiter zu unserer letzten Station des Tages – Svätý Jur, einer weiteren reizvollen Weinstadt im Kleinkarpaten-Gebiet."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "svaty-jur",
+      "title": "Svätý Jur",
+      "subtitle": "Weinverkostung in einer historischen Weinstadt",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "svaty-jur-main",
+          "title": "Letzte Station — Svätý Jur",
+          "text": [
+            "Unsere letzte Station heute ist die reizvolle kleine Stadt Svätý Jur, die direkt neben Bratislava liegt.",
+            "Svätý Jur ist eine alte Weinstadt, die in den Weinbergen am Fuße der Kleinen Karpaten liegt, nur etwa zehn Kilometer von Bratislava entfernt.",
+            "Dank ihres gut erhaltenen historischen Charakters wurde die Altstadt von Svätý Jur zum historischen Stadtreservat erklärt. Dadurch werden ihre einzigartige Atmosphäre, ihre traditionelle Architektur und ihr kulturelles Erbe geschützt.",
+            "Jahrhundertelang war die Weinproduktion das Herz des Lebens in Svätý Jur. Die umliegenden Weinberge und familiengeführten Weingüter sind ein wichtiger Teil der Kleinkarpaten-Weinstraße.",
+            "Während Ihres Besuchs genießen Sie eine Weinverkostung in einem kleinen lokalen Weingut. Dort haben Sie die Gelegenheit, drei verschiedene lokale Weine zu probieren.",
+            "Alle während der Verkostung servierten Weine stammen von kleinen Erzeugern aus dem Kleinkarpaten-Weingebiet. So können Sie authentische slowakische Weine entdecken, die mit Tradition und Leidenschaft hergestellt werden.",
+            "Genießen Sie Ihre Verkostung und die einzigartige Atmosphäre dieser historischen Weinstadt."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thank-you",
+      "title": "Dank und Abschied",
+      "subtitle": "Auf dem Rückweg nach Bratislava",
+      "mode": "playlist",
+      "tracks": [
+        {
+          "id": "final-words",
+          "title": "Schlussworte und Dank",
+          "text": [
+            "Vielen Dank, dass Sie sich für Bratislava City Tours entschieden und an unserer Audioguide-Tour auf der Kleinkarpaten-Weinstraße teilgenommen haben.",
+            "Wir hoffen, Sie hatten Freude daran, die schönen Weinberge, historischen Städte und Weintraditionen des Kleinkarpaten-Gebiets zu entdecken.",
+            "Wir wissen, dass das Erleben eines Reiseziels mit einem Live-Führer seinen ganz eigenen Reiz hat. Wir haben diesen Audioguide jedoch geschaffen, um Ihnen eine erschwinglichere Möglichkeit zu bieten, diese einzigartige Tour zu genießen und Ihnen während der gesamten Reise interessante Geschichten, historische Informationen und lokale Einblicke zu vermitteln.",
+            "Ihre Meinung ist uns sehr wichtig. Wir würden uns sehr über Ihre Bewertung auf Tripadvisor oder Google freuen. Ihre Rezensionen helfen anderen Reisenden, unsere Touren zu entdecken.",
+            "Nochmals vielen Dank, dass Sie mit uns gereist sind. Wir stehen Ihnen auch weiterhin gerne zur Verfügung und wünschen Ihnen einen wunderbaren Abend.",
+            "Ihr Team von Bratislava City Tours."
+          ]
+        }
+      ]
+    }
+  ]
+}
